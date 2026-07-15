@@ -58,3 +58,40 @@ upstream_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_
 reach_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = covariates_reach_2021, matrix_name = "reach")
 buffer_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = covariates_buffer_2021, matrix_name = "buffer")
 all_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = all_covariates_2021, matrix_name = "all")
+
+analyze_corr_matrix <- function(corr_matrix, output_file) {
+    # Extract coefficients & p values from correlation matrix
+    coefficients <- corr_matrix$r 
+    pValues <- corr_matrix$P
+    # Reshape data to tall, normal structure
+    coefficientsLong <- melt(coefficients, varnames = c("Variable 1", "Variable 2"), value.name = "Correlation Coefficient")
+    pValuesLong <- melt(pValues, varnames = c("Variable 1", "Variable 2"), value.name = "p Value")
+    # Combine correlation coefficient & p value
+    table <- merge(coefficientsLong, pValuesLong, by = c("Variable 1", "Variable 2")) 
+    # Remove diagonal (self-correlation) 
+    table <- table[table$`Variable 1` != table$`Variable 2`, ]
+    # Remove duplicate - not a pair anymore
+    table <- table[!duplicated(t(apply(table[,1:2], 1, sort))), ] 
+    # Find absolute value of correlation coefficient
+    table$`Absolute Value of Correlation` <- abs(table$`Correlation Coefficient`)
+    # Categorize correlation strength
+    table$`Correlation Strength` <- cut(table$`Absolute Value of Correlation`, breaks = c(0, 0.19, 0.39, 0.59, 0.79, 1.00), labels = c("Very Weak", "Weak", "Moderate", "Strong", "Very Strong"), include.lowest = TRUE)
+    # Find direction of correlation
+    table$Direction <- ifelse(table$`Correlation Coefficient` > 0, "Positive", "Negative")
+    # Sort by highest significance & highest strength
+    table <- table[order(table$`p Value`, -table$`Absolute Value of Correlation`), ]
+    # Save table
+    write_csv(table, output_file)
+    return(table)
+}
+
+summary_tables <- list(
+  site_specific = analyze_corr_matrix(site_specific_corr_matrix, "results_2021/correlation/exports/site_specific_summary.csv"),
+  upstream      = analyze_corr_matrix(upstream_corr_matrix, "results_2021/correlation/exports/upstream_summary.csv"),
+  reach         = analyze_corr_matrix(reach_corr_matrix, "results_2021/correlation/exports/reach_summary.csv"),
+  buffer        = analyze_corr_matrix(buffer_corr_matrix, "results_2021/correlation/exports/buffer_summary.csv"),
+  all           = analyze_corr_matrix(all_corr_matrix, "results_2021/correlation/exports/all_summary.csv")
+)
+
+ts_correlations <- summary_tables$all[summary_tables$all$`Variable 1` == "thermal_sensitivity" | summary_tables$all$`Variable 2` == "thermal_sensitivity",]
+write_csv(ts_correlations, "results/2021/correlation/exports/ts_correlations.csv")

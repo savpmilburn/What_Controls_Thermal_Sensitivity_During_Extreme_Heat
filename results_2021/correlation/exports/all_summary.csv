@@ -1,0 +1,904 @@
+Variable 1,Variable 2,Correlation Coefficient,p Value,Absolute Value of Correlation,Correlation Strength,Direction
+annual_precip_mm,wet_season_precip_mm,0.9954002283802692,0,0.9954002283802692,Very Strong,Positive
+veg_cover_reach_pct,veg_height_reach_m,0.9420723372091153,0,0.9420723372091153,Very Strong,Positive
+agricultural_reach_pct,agricultural_upstream_pct,0.9360143593495944,0,0.9360143593495944,Very Strong,Positive
+agricultural_upstream_pct,developed_upstream_pct,0.9356359946214342,0,0.9356359946214342,Very Strong,Positive
+mean_air_temp_c,summer_mean_max_air_temp_c,0.9277497079826442,0,0.9277497079826442,Very Strong,Positive
+summer_mean_air_temp_c,summer_mean_max_air_temp_c,0.9198739083583962,0,0.9198739083583962,Very Strong,Positive
+summer_max_air_temp_c,summer_mean_max_air_temp_c,0.9196809109477782,0,0.9196809109477782,Very Strong,Positive
+mean_air_temp_c,summer_mean_air_temp_c,0.9179972196605286,0,0.9179972196605286,Very Strong,Positive
+developed_reach_pct,developed_upstream_pct,0.9148602670173172,0,0.9148602670173172,Very Strong,Positive
+veg_cover_upstream_pct,veg_height_upstream_m,0.9061675992025211,0,0.9061675992025211,Very Strong,Positive
+base_flow_index,developed_upstream_pct,-0.898360633435193,0,0.898360633435193,Very Strong,Negative
+base_flow_index,elevation_m,0.8976897166241798,0,0.8976897166241798,Very Strong,Positive
+wetlands_buffer_pct,wetlands_reach_pct,0.8922599293228133,0,0.8922599293228133,Very Strong,Positive
+agricultural_reach_pct,developed_reach_pct,0.8904792804976606,0,0.8904792804976606,Very Strong,Positive
+agricultural_reach_pct,developed_upstream_pct,0.8879296640408619,0,0.8879296640408619,Very Strong,Positive
+high_cascades_buffer_pct,high_cascades_reach_pct,0.8758044650902321,0,0.8758044650902321,Very Strong,Positive
+elevation_m,mean_stream_temp_c,-0.8750814120900021,0,0.8750814120900021,Very Strong,Negative
+burned_upstream_pct,shrub_upstream_pct,0.871427158117893,0,0.871427158117893,Very Strong,Positive
+base_flow_index,developed_reach_pct,-0.8651155939903609,0,0.8651155939903609,Very Strong,Negative
+agricultural_upstream_pct,base_flow_index,-0.8594940634126232,0,0.8594940634126232,Very Strong,Negative
+developed_reach_pct,wet_season_precip_mm,-0.8586736694157102,0,0.8586736694157102,Very Strong,Negative
+agricultural_reach_pct,wet_season_precip_mm,-0.8556349759189766,0,0.8556349759189766,Very Strong,Negative
+agricultural_upstream_pct,developed_reach_pct,0.8551790179788726,0,0.8551790179788726,Very Strong,Positive
+annual_precip_mm,developed_reach_pct,-0.851888022309938,0,0.851888022309938,Very Strong,Negative
+veg_cover_buffer_pct,veg_height_buffer_m,0.8504044643862273,0,0.8504044643862273,Very Strong,Positive
+agricultural_reach_pct,annual_precip_mm,-0.8481622585135646,0,0.8481622585135646,Very Strong,Negative
+forest_upstream_pct,veg_height_upstream_m,0.847768065161043,0,0.847768065161043,Very Strong,Positive
+elevation_m,wet_season_precip_mm,0.8467006549998278,0,0.8467006549998278,Very Strong,Positive
+agricultural_reach_pct,base_flow_index,-0.8460314761228444,0,0.8460314761228444,Very Strong,Negative
+forest_upstream_pct,veg_cover_upstream_pct,0.8446163316815648,0,0.8446163316815648,Very Strong,Positive
+developed_buffer_pct,developed_reach_pct,0.8424394673398685,0,0.8424394673398685,Very Strong,Positive
+developed_upstream_pct,wet_season_precip_mm,-0.8414918254172571,0,0.8414918254172571,Very Strong,Negative
+annual_precip_mm,elevation_m,0.8361183040398512,0,0.8361183040398512,Very Strong,Positive
+agricultural_upstream_pct,wet_season_precip_mm,-0.836115489087354,0,0.836115489087354,Very Strong,Negative
+agricultural_buffer_pct,agricultural_reach_pct,0.8356416833741634,0,0.8356416833741634,Very Strong,Positive
+developed_reach_pct,elevation_m,-0.8345551480290726,0,0.8345551480290726,Very Strong,Negative
+annual_precip_mm,developed_upstream_pct,-0.8341802989196638,0,0.8341802989196638,Very Strong,Negative
+agricultural_reach_pct,veg_height_reach_m,-0.8303282238271374,0,0.8303282238271374,Very Strong,Negative
+agricultural_upstream_pct,annual_precip_mm,-0.8277772995490225,0,0.8277772995490225,Very Strong,Negative
+agricultural_buffer_pct,developed_reach_pct,0.8248548723892613,0,0.8248548723892613,Very Strong,Positive
+elevation_m,veg_cover_reach_pct,0.8242228333413744,0,0.8242228333413744,Very Strong,Positive
+burned_buffer_pct,burned_reach_pct,0.8189729025207227,0,0.8189729025207227,Very Strong,Positive
+summer_max_air_temp_c,summer_precip_mm,-0.8172636183797868,0,0.8172636183797868,Very Strong,Negative
+mean_air_temp_c,summer_max_air_temp_c,0.8170927612782433,0,0.8170927612782433,Very Strong,Positive
+base_flow_index,mean_stream_temp_c,-0.8147332302299183,0,0.8147332302299183,Very Strong,Negative
+agricultural_reach_pct,elevation_m,-0.8053669707099376,0,0.8053669707099376,Very Strong,Negative
+developed_upstream_pct,elevation_m,-0.8049959678395944,0,0.8049959678395944,Very Strong,Negative
+agricultural_upstream_pct,veg_height_reach_m,-0.8040794569820546,0,0.8040794569820546,Very Strong,Negative
+developed_upstream_pct,veg_height_reach_m,-0.8033127928583776,0,0.8033127928583776,Very Strong,Negative
+agricultural_buffer_pct,agricultural_upstream_pct,0.7982494603123773,0,0.7982494603123773,Very Strong,Positive
+developed_reach_pct,veg_height_reach_m,-0.7982083935044231,0,0.7982083935044231,Very Strong,Negative
+elevation_m,veg_height_reach_m,0.7960470240105498,0,0.7960470240105498,Very Strong,Positive
+annual_precip_mm,summer_mean_air_temp_c,-0.7941360953407208,0,0.7941360953407208,Very Strong,Negative
+base_flow_index,veg_height_reach_m,0.7929911470983471,0,0.7929911470983471,Very Strong,Positive
+agricultural_buffer_pct,developed_upstream_pct,0.7920656319632342,0,0.7920656319632342,Very Strong,Positive
+lakes_buffer_pct,lakes_reach_pct,0.7866633259948321,2.220446049250313e-16,0.7866633259948321,Strong,Positive
+agricultural_buffer_pct,developed_buffer_pct,0.7861617755893837,4.440892098500626e-16,0.7861617755893837,Strong,Positive
+summer_mean_air_temp_c,wet_season_precip_mm,-0.7838429001077569,4.440892098500626e-16,0.7838429001077569,Strong,Negative
+base_flow_index,wet_season_precip_mm,0.7827877092080403,4.440892098500626e-16,0.7827877092080403,Strong,Positive
+high_cascades_upstream_pct,thermal_sensitivity,-0.7781816949824829,8.881784197001252e-16,0.7781816949824829,Strong,Negative
+agricultural_buffer_pct,wet_season_precip_mm,-0.7757488582239739,1.3322676295501878e-15,0.7757488582239739,Strong,Negative
+annual_precip_mm,base_flow_index,0.7753089994058637,1.3322676295501878e-15,0.7753089994058637,Strong,Positive
+base_flow_index,thermal_sensitivity,-0.7724074770534384,1.7763568394002505e-15,0.7724074770534384,Strong,Negative
+veg_height_buffer_m,veg_height_reach_m,0.7697689004679886,2.6645352591003757e-15,0.7697689004679886,Strong,Positive
+developed_buffer_pct,developed_upstream_pct,0.7676015438339282,3.552713678800501e-15,0.7676015438339282,Strong,Positive
+elevation_m,summer_mean_air_temp_c,-0.7668987925934391,3.9968028886505635e-15,0.7668987925934391,Strong,Negative
+mean_stream_temp_c,thermal_sensitivity,0.7668164685783848,3.9968028886505635e-15,0.7668164685783848,Strong,Positive
+agricultural_upstream_pct,elevation_m,-0.7663291647993873,4.440892098500626e-15,0.7663291647993873,Strong,Negative
+agricultural_reach_pct,veg_cover_reach_pct,-0.7654607634970894,4.884981308350689e-15,0.7654607634970894,Strong,Negative
+agricultural_buffer_pct,annual_precip_mm,-0.7646132280075556,5.3290705182007514e-15,0.7646132280075556,Strong,Negative
+agricultural_buffer_pct,summer_mean_air_temp_c,0.7644129468885553,5.551115123125783e-15,0.7644129468885553,Strong,Positive
+agricultural_buffer_pct,elevation_m,-0.7606632507956936,8.881784197001252e-15,0.7606632507956936,Strong,Negative
+developed_upstream_pct,veg_height_upstream_m,-0.7579685148343295,1.2878587085651816e-14,0.7579685148343295,Strong,Negative
+channel_slope,upstream_area_km2,-0.7548007650065203,1.887379141862766e-14,0.7548007650065203,Strong,Negative
+veg_cover_reach_pct,veg_height_buffer_m,0.7512745050738971,2.930988785010413e-14,0.7512745050738971,Strong,Positive
+summer_max_air_temp_c,summer_mean_air_temp_c,0.7509046753622722,3.064215547965432e-14,0.7509046753622722,Strong,Positive
+developed_reach_pct,veg_cover_reach_pct,-0.7504649238610943,3.219646771412954e-14,0.7504649238610943,Strong,Negative
+agricultural_buffer_pct,veg_height_reach_m,-0.7458829796315004,5.595524044110789e-14,0.7458829796315004,Strong,Negative
+agricultural_buffer_pct,base_flow_index,-0.7440102838889059,6.972200594645983e-14,0.7440102838889059,Strong,Negative
+veg_height_reach_m,wet_season_precip_mm,0.7433538658375034,7.549516567451064e-14,0.7433538658375034,Strong,Positive
+agricultural_buffer_pct,summer_mean_max_air_temp_c,0.7363735902285092,1.6897594434794883e-13,0.7363735902285092,Strong,Positive
+agricultural_upstream_pct,veg_height_upstream_m,-0.733966527278993,2.220446049250313e-13,0.733966527278993,Strong,Negative
+base_flow_index,veg_height_upstream_m,0.7310005561983939,3.0953017926549364e-13,0.7310005561983939,Strong,Positive
+base_flow_index,high_cascades_upstream_pct,0.7293147989625869,3.730349362740526e-13,0.7293147989625869,Strong,Positive
+agricultural_reach_pct,developed_buffer_pct,0.7287660958482094,3.9612757518625585e-13,0.7287660958482094,Strong,Positive
+annual_precip_mm,veg_height_reach_m,0.7276572480002129,4.476419235288631e-13,0.7276572480002129,Strong,Positive
+base_flow_index,veg_cover_reach_pct,0.7271323694933877,4.738431869100168e-13,0.7271323694933877,Strong,Positive
+developed_upstream_pct,veg_cover_reach_pct,-0.7269036619402292,4.858335955759685e-13,0.7269036619402292,Strong,Negative
+mean_stream_temp_c,veg_cover_reach_pct,-0.7268868091164362,4.867217739956686e-13,0.7268868091164362,Strong,Negative
+veg_cover_reach_pct,wet_season_precip_mm,0.7252126927632578,5.839773109528323e-13,0.7252126927632578,Strong,Positive
+veg_cover_buffer_pct,veg_cover_reach_pct,0.7235811582316142,6.967759702547482e-13,0.7235811582316142,Strong,Positive
+agricultural_upstream_pct,developed_buffer_pct,0.7226050310929949,7.736034035588091e-13,0.7226050310929949,Strong,Positive
+annual_precip_mm,summer_mean_max_air_temp_c,-0.7220837287099732,8.180123245438153e-13,0.7220837287099732,Strong,Negative
+agricultural_buffer_pct,mean_air_temp_c,0.7216751302825165,8.544276397515205e-13,0.7216751302825165,Strong,Positive
+agricultural_buffer_pct,veg_cover_reach_pct,-0.7179246347192867,1.2709833185908792e-12,0.7179246347192867,Strong,Negative
+agricultural_upstream_pct,veg_cover_reach_pct,-0.7164606225290692,1.481703648664734e-12,0.7164606225290692,Strong,Negative
+developed_reach_pct,mean_stream_temp_c,0.7164513696063897,1.4832579608992091e-12,0.7164513696063897,Strong,Positive
+annual_precip_mm,veg_cover_reach_pct,0.7144373506003637,1.8283152769527078e-12,0.7144373506003637,Strong,Positive
+high_cascades_reach_pct,high_cascades_upstream_pct,0.7142435802501117,1.865396725975188e-12,0.7142435802501117,Strong,Positive
+summer_mean_max_air_temp_c,wet_season_precip_mm,-0.7063222735094971,4.1744385725905886e-12,0.7063222735094971,Strong,Negative
+veg_height_reach_m,veg_height_upstream_m,0.7017535447449428,6.5638605661888505e-12,0.7017535447449428,Strong,Positive
+agricultural_reach_pct,mean_stream_temp_c,0.7013566543568445,6.824318887765912e-12,0.7013566543568445,Strong,Positive
+developed_buffer_pct,wet_season_precip_mm,-0.7004853045971369,7.431388837630948e-12,0.7004853045971369,Strong,Negative
+annual_precip_mm,mean_air_temp_c,-0.6965384873162497,1.0890843782362936e-11,0.6965384873162497,Strong,Negative
+base_flow_index,developed_buffer_pct,-0.693787024277261,1.4165113526587447e-11,0.693787024277261,Strong,Negative
+mean_stream_temp_c,veg_height_reach_m,-0.6915104933024339,1.7567725052458627e-11,0.6915104933024339,Strong,Negative
+elevation_m,thermal_sensitivity,-0.6888688794659481,2.2497559371004172e-11,0.6888688794659481,Strong,Negative
+mean_stream_temp_c,summer_mean_air_temp_c,0.6875768936816379,2.5366597711240502e-11,0.6875768936816379,Strong,Positive
+developed_reach_pct,lakes_buffer_pct,0.6868007873839834,2.7255087076127893e-11,0.6868007873839834,Strong,Positive
+annual_precip_mm,developed_buffer_pct,-0.6860282859108967,2.92679214197733e-11,0.6860282859108967,Strong,Negative
+developed_buffer_pct,elevation_m,-0.6859284966215375,2.9538149703967065e-11,0.6859284966215375,Strong,Negative
+mean_air_temp_c,wet_season_precip_mm,-0.6847743471125095,3.284128524683183e-11,0.6847743471125095,Strong,Negative
+elevation_m,veg_height_buffer_m,0.683022145028224,3.8539837987627834e-11,0.683022145028224,Strong,Positive
+developed_upstream_pct,thermal_sensitivity,0.6787821641145126,5.650635515053182e-11,0.6787821641145126,Strong,Positive
+veg_cover_reach_pct,veg_height_upstream_m,0.6780514131495612,6.032019328472416e-11,0.6780514131495612,Strong,Positive
+developed_upstream_pct,mean_stream_temp_c,0.6733465789220039,9.144551782469534e-11,0.6733465789220039,Strong,Positive
+agricultural_buffer_pct,mean_stream_temp_c,0.6706189836292074,1.15991216631528e-10,0.6706189836292074,Strong,Positive
+developed_upstream_pct,veg_cover_upstream_pct,-0.6682100081280715,1.428002160963615e-10,0.6682100081280715,Strong,Negative
+developed_reach_pct,summer_mean_air_temp_c,0.6661331245359031,1.7057644186024845e-10,0.6661331245359031,Strong,Positive
+agricultural_upstream_pct,veg_cover_upstream_pct,-0.6635796424735161,2.118307751430848e-10,0.6635796424735161,Strong,Negative
+agricultural_reach_pct,summer_mean_air_temp_c,0.66157398135999,2.5075053144973936e-10,0.66157398135999,Strong,Positive
+thermal_sensitivity,veg_height_upstream_m,-0.6586379610906958,3.20242055096287e-10,0.6586379610906958,Strong,Negative
+agricultural_upstream_pct,mean_stream_temp_c,0.6567617409591086,3.739009102332602e-10,0.6567617409591086,Strong,Positive
+agricultural_reach_pct,veg_height_upstream_m,-0.6549551651736921,4.336029313378731e-10,0.6549551651736921,Strong,Negative
+agricultural_upstream_pct,thermal_sensitivity,0.649228091817847,6.88983980978719e-10,0.649228091817847,Strong,Positive
+developed_reach_pct,lakes_reach_pct,0.6484610560202103,7.325253736922832e-10,0.6484610560202103,Strong,Positive
+mean_stream_temp_c,veg_height_buffer_m,-0.6483835482964547,7.370681842644444e-10,0.6483835482964547,Strong,Negative
+developed_reach_pct,veg_height_upstream_m,-0.6465716338966221,8.512541782579319e-10,0.6465716338966221,Strong,Negative
+base_flow_index,high_cascades_reach_pct,0.6435583315339822,1.079365041789515e-9,0.6435583315339822,Strong,Positive
+mean_stream_temp_c,wet_season_precip_mm,-0.6416183651690291,1.2558891704372854e-9,0.6416183651690291,Strong,Negative
+agricultural_upstream_pct,summer_mean_air_temp_c,0.6403446914945786,1.3863994396956514e-9,0.6403446914945786,Strong,Positive
+summer_mean_air_temp_c,veg_cover_reach_pct,-0.6386561382547564,1.5794505703325967e-9,0.6386561382547564,Strong,Negative
+developed_upstream_pct,summer_mean_air_temp_c,0.6382243753294888,1.6327796892312563e-9,0.6382243753294888,Strong,Positive
+developed_buffer_pct,veg_height_reach_m,-0.6378954311659288,1.6745560493802714e-9,0.6378954311659288,Strong,Negative
+base_flow_index,summer_mean_air_temp_c,-0.6372021583923353,1.76596204326529e-9,0.6372021583923353,Strong,Negative
+elevation_m,mean_air_temp_c,-0.6317268835642327,2.674608090558195e-9,0.6317268835642327,Strong,Negative
+high_cascades_reach_pct,mean_stream_temp_c,-0.6316975957159455,2.6804949371239672e-9,0.6316975957159455,Strong,Negative
+developed_buffer_pct,lakes_buffer_pct,0.6315048074631014,2.7195534713087e-9,0.6315048074631014,Strong,Positive
+elevation_m,high_cascades_reach_pct,0.6307542456074874,2.8768405435641853e-9,0.6307542456074874,Strong,Positive
+annual_precip_mm,mean_stream_temp_c,-0.6290432884381475,3.2683931117105658e-9,0.6290432884381475,Strong,Negative
+mean_stream_temp_c,veg_cover_buffer_pct,-0.6267718353628097,3.867109743538322e-9,0.6267718353628097,Strong,Negative
+elevation_m,veg_height_upstream_m,0.6264019920611178,3.973975815085851e-9,0.6264019920611178,Strong,Positive
+agricultural_buffer_pct,veg_height_buffer_m,-0.624636690162631,4.5239598733815e-9,0.624636690162631,Strong,Negative
+summer_mean_max_air_temp_c,summer_precip_mm,-0.6231082232980041,5.057966934174374e-9,0.6231082232980041,Strong,Negative
+high_cascades_upstream_pct,veg_height_upstream_m,0.6168257945236799,7.951078906387465e-9,0.6168257945236799,Strong,Positive
+burned_reach_pct,burned_upstream_pct,0.6159713023023152,8.449135835419952e-9,0.6159713023023152,Strong,Positive
+agricultural_reach_pct,lakes_reach_pct,0.6155973493060729,8.676307450272702e-9,0.6155973493060729,Strong,Positive
+veg_height_buffer_m,wet_season_precip_mm,0.6151112114988208,8.980319821105809e-9,0.6151112114988208,Strong,Positive
+summer_mean_air_temp_c,veg_height_buffer_m,-0.6145965682910407,9.31318044905538e-9,0.6145965682910407,Strong,Negative
+agricultural_reach_pct,thermal_sensitivity,0.61451324597154,9.368162467993102e-9,0.61451324597154,Strong,Positive
+elevation_m,veg_cover_buffer_pct,0.6129042633601904,1.049237585704077e-8,0.6129042633601904,Strong,Positive
+developed_buffer_pct,veg_cover_reach_pct,-0.6127519090382761,1.0605230915672337e-8,0.6127519090382761,Strong,Negative
+developed_reach_pct,veg_height_buffer_m,-0.6099346597438411,1.2912011460031181e-8,0.6099346597438411,Strong,Negative
+agricultural_upstream_pct,mean_air_temp_c,0.6090523134660926,1.372752311823433e-8,0.6090523134660926,Strong,Positive
+mean_stream_temp_c,veg_height_upstream_m,-0.6077882822046434,1.4981484719456262e-8,0.6077882822046434,Strong,Negative
+high_cascades_upstream_pct,summer_precip_mm,-0.6058966626815565,1.706304741944109e-8,0.6058966626815565,Strong,Negative
+agricultural_reach_pct,mean_air_temp_c,0.6054756825618729,1.756228074079047e-8,0.6054756825618729,Strong,Positive
+high_cascades_upstream_pct,mean_stream_temp_c,-0.6049739501812771,1.8175396521158405e-8,0.6049739501812771,Strong,Negative
+veg_cover_buffer_pct,veg_height_reach_m,0.6022257602804715,2.1910792957768876e-8,0.6022257602804715,Strong,Positive
+road_density_buffer,road_density_reach,0.6012169762346405,2.34564851986363e-8,0.6012169762346405,Strong,Positive
+annual_precip_mm,veg_height_buffer_m,0.5978706640381902,2.9358743436347368e-8,0.5978706640381902,Strong,Positive
+developed_reach_pct,mean_air_temp_c,0.597836429334206,2.9425843983688083e-8,0.597836429334206,Strong,Positive
+mean_air_temp_c,mean_stream_temp_c,0.5974015254944701,3.029102702001296e-8,0.5974015254944701,Strong,Positive
+agricultural_reach_pct,veg_height_buffer_m,-0.5972328700539936,3.0632994807433533e-8,0.5972328700539936,Strong,Negative
+thermal_sensitivity,veg_height_reach_m,-0.5955520554419298,3.424720063094355e-8,0.5955520554419298,Strong,Negative
+developed_upstream_pct,high_cascades_upstream_pct,-0.5948882351048018,3.578309648588629e-8,0.5948882351048018,Strong,Negative
+summer_mean_air_temp_c,veg_height_reach_m,-0.5946863091900514,3.6263107627831914e-8,0.5946863091900514,Strong,Negative
+high_cascades_reach_pct,thermal_sensitivity,-0.5931309100756962,4.01706659047818e-8,0.5931309100756962,Strong,Negative
+veg_cover_reach_pct,veg_cover_upstream_pct,0.5930356941910929,4.0422401426098986e-8,0.5930356941910929,Strong,Positive
+agricultural_buffer_pct,veg_height_upstream_m,-0.5928416796662391,4.0939980738841086e-8,0.5928416796662391,Strong,Negative
+developed_buffer_pct,summer_mean_air_temp_c,0.5891429429410133,5.209489839508308e-8,0.5891429429410133,Moderate,Positive
+developed_upstream_pct,mean_air_temp_c,0.5890088175488624,5.2549115281408376e-8,0.5890088175488624,Moderate,Positive
+agricultural_upstream_pct,summer_mean_max_air_temp_c,0.5857578150677897,6.47783089391396e-8,0.5857578150677897,Moderate,Positive
+summer_mean_air_temp_c,veg_cover_buffer_pct,-0.5851975750466073,6.714099076710056e-8,0.5851975750466073,Moderate,Negative
+lakes_upstream_pct,wetlands_upstream_pct,0.5838266782885115,7.327144846414058e-8,0.5838266782885115,Moderate,Positive
+base_flow_index,veg_height_buffer_m,0.5823073896807726,8.068367551850031e-8,0.5823073896807726,Moderate,Positive
+developed_buffer_pct,mean_stream_temp_c,0.5822141136559431,8.116114114109507e-8,0.5822141136559431,Moderate,Positive
+agricultural_reach_pct,summer_mean_max_air_temp_c,0.581688335716318,8.390296035720723e-8,0.581688335716318,Moderate,Positive
+thermal_sensitivity,veg_cover_reach_pct,-0.5782973678359032,1.0380762249795339e-7,0.5782973678359032,Moderate,Negative
+channel_slope,veg_cover_buffer_pct,0.5774603793120439,1.0936749217371755e-7,0.5774603793120439,Moderate,Positive
+developed_buffer_pct,veg_height_buffer_m,-0.5759887375811517,1.1983275749472e-7,0.5759887375811517,Moderate,Negative
+veg_cover_upstream_pct,veg_height_reach_m,0.5749937731259518,1.274376493221041e-7,0.5749937731259518,Moderate,Positive
+agricultural_reach_pct,lakes_buffer_pct,0.5731679111403322,1.4259563485552462e-7,0.5731679111403322,Moderate,Positive
+developed_reach_pct,thermal_sensitivity,0.57011428269670406,1.7182120370939913e-7,0.57011428269670406,Moderate,Positive
+agricultural_reach_pct,veg_cover_upstream_pct,-0.569959365421378,1.7344539315899965e-7,0.569959365421378,Moderate,Negative
+developed_reach_pct,summer_mean_max_air_temp_c,0.5699417549693225,1.7363094162448078e-7,0.5699417549693225,Moderate,Positive
+developed_buffer_pct,veg_height_upstream_m,-0.5689638708717688,1.8423386238808348e-7,0.5689638708717688,Moderate,Negative
+annual_precip_mm,road_density_upstream,-0.5683594437679959,1.9109051407895095e-7,0.5683594437679959,Moderate,Negative
+developed_buffer_pct,lakes_reach_pct,0.5676430621321551,1.9952955798707706e-7,0.5676430621321551,Moderate,Positive
+elevation_m,high_cascades_upstream_pct,0.5675439341341766,2.0072466755394203e-7,0.5675439341341766,Moderate,Positive
+elevation_m,summer_mean_max_air_temp_c,-0.566959906370903,2.0790434573925154e-7,0.566959906370903,Moderate,Negative
+agricultural_upstream_pct,high_cascades_upstream_pct,-0.5661867432474387,2.177830116245616e-7,0.5661867432474387,Moderate,Negative
+developed_upstream_pct,summer_mean_max_air_temp_c,0.5649863748967615,2.3400344417723318e-7,0.5649863748967615,Moderate,Positive
+base_flow_index,lakes_buffer_pct,-0.5621186430855071,2.7749742992355664e-7,0.5621186430855071,Moderate,Negative
+agricultural_buffer_pct,summer_max_air_temp_c,0.5615281733412221,2.8735367774146425e-7,0.5615281733412221,Moderate,Positive
+high_cascades_buffer_pct,high_cascades_upstream_pct,0.5612335665226431,2.923940640719991e-7,0.5612335665226431,Moderate,Positive
+agricultural_buffer_pct,veg_cover_upstream_pct,-0.5564561592489597,3.867385980349525e-7,0.5564561592489597,Moderate,Negative
+developed_buffer_pct,mean_air_temp_c,0.5542711623946316,4.3886827905126324e-7,0.5542711623946316,Moderate,Positive
+road_density_upstream,wet_season_precip_mm,-0.5538867327168642,4.4869974358263676e-7,0.5538867327168642,Moderate,Negative
+developed_upstream_pct,lakes_buffer_pct,0.5530908480581267,4.6971799161354966e-7,0.5530908480581267,Moderate,Positive
+base_flow_index,veg_cover_upstream_pct,0.5491589817892373,5.879004714159919e-7,0.5491589817892373,Moderate,Positive
+developed_upstream_pct,lakes_reach_pct,0.5479902093719149,6.281119677709057e-7,0.5479902093719149,Moderate,Positive
+developed_reach_pct,veg_cover_upstream_pct,-0.5450654447948775,7.403967066110795e-7,0.5450654447948775,Moderate,Negative
+base_flow_index,high_cascades_buffer_pct,0.5431784845568458,8.226013783474428e-7,0.5431784845568458,Moderate,Positive
+agricultural_upstream_pct,wetlands_upstream_pct,0.5410802020721924,9.240784577535521e-7,0.5410802020721924,Moderate,Positive
+elevation_m,high_cascades_buffer_pct,0.5409986113536103,9.282530109011589e-7,0.5409986113536103,Moderate,Positive
+elevation_m,lakes_buffer_pct,-0.5407019213733338,9.435831933579664e-7,0.5407019213733338,Moderate,Negative
+channel_slope,mean_stream_temp_c,-0.540416247032922,9.585692026803372e-7,0.540416247032922,Moderate,Negative
+base_flow_index,lakes_reach_pct,-0.5361502978798995,1.210787269112501e-6,0.5361502978798995,Moderate,Negative
+base_flow_index,mean_air_temp_c,-0.5351439369584777,1.27878306299678e-6,0.5351439369584777,Moderate,Negative
+mean_air_temp_c,veg_cover_reach_pct,-0.5329981848935607,1.4359401501184976e-6,0.5329981848935607,Moderate,Negative
+developed_reach_pct,wetlands_reach_pct,0.5316951656110848,1.5400562825007569e-6,0.5316951656110848,Moderate,Positive
+veg_height_upstream_m,wet_season_precip_mm,0.5302276279378045,1.6658026431581874e-6,0.5302276279378045,Moderate,Positive
+high_cascades_buffer_pct,mean_stream_temp_c,-0.5293995549413442,1.7409524157852019e-6,0.5293995549413442,Moderate,Negative
+developed_buffer_pct,summer_mean_max_air_temp_c,0.5293717205231712,1.7435329791037901e-6,0.5293717205231712,Moderate,Positive
+annual_precip_mm,summer_max_air_temp_c,-0.52931148173762,1.7491301060879039e-6,0.52931148173762,Moderate,Negative
+high_cascades_reach_pct,veg_height_reach_m,0.5276676142312637,1.9085517926065165e-6,0.5276676142312637,Moderate,Positive
+agricultural_upstream_pct,veg_height_buffer_m,-0.5274795154770454,1.9276397975609427e-6,0.5274795154770454,Moderate,Negative
+developed_upstream_pct,wetlands_upstream_pct,0.5253048960812424,2.161742399309219e-6,0.5253048960812424,Moderate,Positive
+mean_air_temp_c,veg_height_buffer_m,-0.5236805130874777,2.353759715134629e-6,0.5236805130874777,Moderate,Negative
+elevation_m,lakes_reach_pct,-0.5236466615059617,2.35792663061396e-6,0.5236466615059617,Moderate,Negative
+road_density_reach,summer_mean_air_temp_c,0.5235858918892838,2.365424370154301e-6,0.5235858918892838,Moderate,Positive
+forest_upstream_pct,veg_height_reach_m,0.5204686356823487,2.7814971792494703e-6,0.5204686356823487,Moderate,Positive
+road_density_reach,summer_mean_max_air_temp_c,0.5185357929781109,3.0729945481589027e-6,0.5185357929781109,Moderate,Positive
+developed_upstream_pct,veg_height_buffer_m,-0.5171555129788225,3.2984419662263065e-6,0.5171555129788225,Moderate,Negative
+road_density_upstream,summer_mean_max_air_temp_c,0.5170938850668763,3.3088610345011205e-6,0.5170938850668763,Moderate,Positive
+agricultural_reach_pct,wetlands_upstream_pct,0.5158600030986391,3.5240759976851166e-6,0.5158600030986391,Moderate,Positive
+mean_air_temp_c,veg_height_reach_m,-0.5157468132595002,3.544462497728773e-6,0.5157468132595002,Moderate,Negative
+wet_season_precip_mm,wetlands_upstream_pct,-0.5143562658454964,3.804107244764765e-6,0.5143562658454964,Moderate,Negative
+developed_buffer_pct,veg_cover_upstream_pct,-0.5118246274285769,4.323181825416356e-6,0.5118246274285769,Moderate,Negative
+summer_max_air_temp_c,wet_season_precip_mm,-0.5111697251395211,4.467879257674667e-6,0.5111697251395211,Moderate,Negative
+annual_precip_mm,wetlands_upstream_pct,-0.5108978949432157,4.5292612460556825e-6,0.5108978949432157,Moderate,Negative
+agricultural_reach_pct,wetlands_reach_pct,0.5100765806341828,4.719557023413756e-6,0.5100765806341828,Moderate,Positive
+channel_slope,summer_mean_air_temp_c,-0.5090198459956778,4.975426009412587e-6,0.5090198459956778,Moderate,Negative
+annual_precip_mm,veg_height_upstream_m,0.508229283989152,5.175280465063992e-6,0.508229283989152,Moderate,Positive
+agricultural_reach_pct,high_cascades_upstream_pct,-0.5078296304439126,5.279150674830646e-6,0.5078296304439126,Moderate,Negative
+agricultural_upstream_pct,forest_upstream_pct,-0.5067094469577047,5.580787298731238e-6,0.5067094469577047,Moderate,Negative
+developed_reach_pct,wetlands_buffer_pct,0.5048133544784236,6.128411180306159e-6,0.5048133544784236,Moderate,Positive
+agricultural_buffer_pct,veg_cover_buffer_pct,-0.5046321036912954,6.1833127855681624e-6,0.5046321036912954,Moderate,Negative
+mean_air_temp_c,road_density_upstream,0.5045136426861642,6.219443481558784e-6,0.5045136426861642,Moderate,Positive
+agricultural_upstream_pct,lakes_reach_pct,0.5039104240251017,6.40651045946683e-6,0.5039104240251017,Moderate,Positive
+summer_mean_max_air_temp_c,veg_height_buffer_m,-0.5032406442076398,6.620381764355088e-6,0.5032406442076398,Moderate,Negative
+forest_upstream_pct,veg_cover_reach_pct,0.5027299555489362,6.7879217000577086e-6,0.5027299555489362,Moderate,Positive
+road_density_reach,summer_max_air_temp_c,0.5022918442510896,6.934804215763535e-6,0.5022918442510896,Moderate,Positive
+lakes_buffer_pct,wet_season_precip_mm,-0.500727925993299,7.483736351954207e-6,0.500727925993299,Moderate,Negative
+burned_reach_pct,shrub_upstream_pct,0.49990485032738513,7.7887026519452e-6,0.49990485032738513,Moderate,Positive
+upstream_area_km2,veg_cover_buffer_pct,-0.49985126230830057,7.808955643451299e-6,0.49985126230830057,Moderate,Negative
+high_cascades_upstream_pct,veg_height_reach_m,0.4997099977834782,7.86258125007322e-6,0.4997099977834782,Moderate,Positive
+thermal_sensitivity,wet_season_precip_mm,-0.4988903929718069,8.180568918270126e-6,0.4988903929718069,Moderate,Negative
+high_cascades_reach_pct,solar_exposure,-0.49780647573590925,8.619588504732434e-6,0.49780647573590925,Moderate,Negative
+developed_upstream_pct,forest_upstream_pct,-0.49755753857362656,8.72347849734112e-6,0.49755753857362656,Moderate,Negative
+developed_reach_pct,wetlands_upstream_pct,0.4970723875460818,8.929320107764482e-6,0.4970723875460818,Moderate,Positive
+high_cascades_reach_pct,veg_cover_reach_pct,0.49703615805090007,8.944872425420414e-6,0.49703615805090007,Moderate,Positive
+annual_precip_mm,lakes_buffer_pct,-0.4953257852207851,9.708572077160582e-6,0.4953257852207851,Moderate,Negative
+agricultural_buffer_pct,wetlands_upstream_pct,0.49435534979330464,1.016854224200614e-5,0.49435534979330464,Moderate,Positive
+mean_air_temp_c,road_density_reach,0.494134121594718,1.027621185811789e-5,0.494134121594718,Moderate,Positive
+developed_reach_pct,road_density_upstream,0.4921424262548044,1.129465127780449e-5,0.4921424262548044,Moderate,Positive
+base_flow_index,wetlands_upstream_pct,-0.490408980334941,1.2256972774737918e-5,0.490408980334941,Moderate,Negative
+lakes_reach_pct,wet_season_precip_mm,-0.48975850595343967,1.2637430204076594e-5,0.48975850595343967,Moderate,Negative
+mean_stream_temp_c,summer_mean_max_air_temp_c,0.4895596368222036,1.2755929132524102e-5,0.4895596368222036,Moderate,Positive
+elevation_m,wetlands_upstream_pct,-0.4893437425800077,1.288574615188054e-5,0.4893437425800077,Moderate,Negative
+annual_precip_mm,thermal_sensitivity,-0.4891129581999647,1.3025879301631349e-5,0.4891129581999647,Moderate,Negative
+developed_reach_pct,high_cascades_upstream_pct,-0.4865662101009659,1.4669650946208534e-5,0.4865662101009659,Moderate,Negative
+mean_air_temp_c,veg_cover_buffer_pct,-0.4859753230328102,1.5077734253576835e-05,0.4859753230328102,Moderate,Negative
+thermal_sensitivity,veg_cover_upstream_pct,-0.4855812910416477,1.5355721103338382e-5,0.4855812910416477,Moderate,Negative
+annual_precip_mm,lakes_reach_pct,-0.4853944961781691,1.5489166748094974e-5,0.4853944961781691,Moderate,Negative
+road_density_reach,veg_height_buffer_m,-0.48493864513096296,1.5819378282877494e-5,0.48493864513096296,Moderate,Negative
+channel_slope,elevation_m,0.48394335623969986,1.656329193844286e-5,0.48394335623969986,Moderate,Positive
+road_density_reach,veg_cover_buffer_pct,-0.4832660547056779,1.7088039601542704e-5,0.4832660547056779,Moderate,Negative
+agricultural_buffer_pct,wetlands_reach_pct,0.48291494429201204,1.7366125685036593e-5,0.48291494429201204,Moderate,Positive
+agricultural_reach_pct,wetlands_buffer_pct,0.4828185612896164,1.744319736252109e-5,0.4828185612896164,Moderate,Positive
+lakes_buffer_pct,veg_height_reach_m,-0.48267935480894175,1.7555075231934225e-5,0.48267935480894175,Moderate,Negative
+agricultural_upstream_pct,lakes_buffer_pct,0.4825078158737446,1.7693857875311636e-5,0.4825078158737446,Moderate,Positive
+burned_buffer_pct,burned_upstream_pct,0.4822567566882824,1.789882014202604e-5,0.4822567566882824,Moderate,Positive
+high_cascades_reach_pct,summer_precip_mm,-0.481599982056562,1.8445516717591204e-5,0.481599982056562,Moderate,Negative
+summer_mean_max_air_temp_c,veg_cover_reach_pct,-0.4805963430653191,1.9311070001082342e-5,0.4805963430653191,Moderate,Negative
+high_cascades_buffer_pct,thermal_sensitivity,-0.4794946192899239,2.0304692552208792e-5,0.4794946192899239,Moderate,Negative
+agricultural_upstream_pct,wetlands_reach_pct,0.4793099739375417,2.047580741004751e-5,0.4793099739375417,Moderate,Positive
+agricultural_buffer_pct,thermal_sensitivity,0.4787381489022917,2.1014287639342655e-5,0.4787381489022917,Moderate,Positive
+road_density_upstream,summer_mean_air_temp_c,0.47856431209075245,2.1180583022140098e-5,0.47856431209075245,Moderate,Positive
+veg_height_buffer_m,wetlands_reach_pct,-0.47729820637151815,2.2429233535348203e-5,0.47729820637151815,Moderate,Negative
+base_flow_index,forest_upstream_pct,0.4766798548575501,2.3063656708011138e-5,0.4766798548575501,Moderate,Positive
+channel_slope,veg_height_buffer_m,0.4756596846053247,2.4146971190130984e-5,0.4756596846053247,Moderate,Positive
+veg_height_reach_m,wetlands_reach_pct,-0.47532380949719066,2.4513872232567735e-5,0.47532380949719066,Moderate,Negative
+developed_upstream_pct,wetlands_reach_pct,0.47430482736745105,2.5658969174280344e-5,0.47430482736745105,Moderate,Positive
+wet_season_precip_mm,wetlands_buffer_pct,-0.47300852414794153,2.718765306841675e-5,0.47300852414794153,Moderate,Negative
+summer_mean_max_air_temp_c,veg_height_reach_m,-0.4729088601491051,2.730862211297591e-5,0.4729088601491051,Moderate,Negative
+veg_height_reach_m,wetlands_buffer_pct,-0.4727494487134196,2.750315185195973e-5,0.4727494487134196,Moderate,Negative
+base_flow_index,summer_mean_max_air_temp_c,-0.4704832211678988,3.0411740501445905e-5,0.4704832211678988,Moderate,Negative
+road_density_upstream,summer_max_air_temp_c,0.4697842007197326,3.1365036862851525e-5,0.4697842007197326,Moderate,Positive
+veg_cover_upstream_pct,wet_season_precip_mm,0.4685261325204219,3.3151052170943274e-5,0.4685261325204219,Moderate,Positive
+developed_upstream_pct,road_density_upstream,0.4668356426187701,3.569996546426424e-5,0.4668356426187701,Moderate,Positive
+elevation_m,veg_cover_upstream_pct,0.4668065673093121,3.5745356057770294e-5,0.4668065673093121,Moderate,Positive
+agricultural_buffer_pct,road_density_upstream,0.46516568436879085,3.839562864627055e-5,0.46516568436879085,Moderate,Positive
+developed_buffer_pct,road_density_upstream,0.46382051168702687,4.070315408277736e-5,0.46382051168702687,Moderate,Positive
+veg_cover_buffer_pct,wet_season_precip_mm,0.4637096128100373,4.089902321569028e-5,0.4637096128100373,Moderate,Positive
+wet_season_precip_mm,wetlands_reach_pct,-0.4632149328106084,4.178342589211681e-5,0.4632149328106084,Moderate,Negative
+mean_stream_temp_c,veg_cover_upstream_pct,-0.463213068364525,4.1786792517983784e-5,0.463213068364525,Moderate,Negative
+agricultural_buffer_pct,lakes_reach_pct,0.4625441842377289,4.30109736313522e-5,0.4625441842377289,Moderate,Positive
+summer_mean_max_air_temp_c,veg_cover_buffer_pct,-0.4609112403677335,4.614071757291782e-5,0.4609112403677335,Moderate,Negative
+burned_upstream_pct,lakes_upstream_pct,0.46089805288659763,4.6166831581651024e-5,0.46089805288659763,Moderate,Positive
+veg_cover_upstream_pct,wetlands_buffer_pct,-0.4573472865224832,5.371891616468005e-5,0.4573472865224832,Moderate,Negative
+developed_upstream_pct,wetlands_buffer_pct,0.4567178774489926,5.5171510437102e-5,0.4567178774489926,Moderate,Positive
+annual_precip_mm,veg_cover_buffer_pct,0.4559899646933371,5.6896789397464786e-5,0.4559899646933371,Moderate,Positive
+burned_upstream_pct,solar_exposure,-0.45557485044012447,5.7902927445896424e-5,0.45557485044012447,Moderate,Negative
+mean_air_temp_c,summer_precip_mm,-0.45422294826328774,6.129499952622908e-5,0.45422294826328774,Moderate,Negative
+developed_buffer_pct,wetlands_reach_pct,0.45390037105749886,6.213112717845526e-5,0.45390037105749886,Moderate,Positive
+lakes_buffer_pct,mean_stream_temp_c,0.4536716495461979,6.27303643616628e-5,0.4536716495461979,Moderate,Positive
+veg_cover_upstream_pct,wetlands_reach_pct,-0.45257182016718345,6.568731431522146e-5,0.45257182016718345,Moderate,Negative
+veg_height_buffer_m,wetlands_buffer_pct,-0.45236264694284195,6.62640871893494e-5,0.45236264694284195,Moderate,Negative
+forest_upstream_pct,high_cascades_upstream_pct,0.4523005396703762,6.643624182900432e-5,0.4523005396703762,Moderate,Positive
+agricultural_buffer_pct,wetlands_buffer_pct,0.45164368437633684,6.828249048496104e-5,0.45164368437633684,Moderate,Positive
+agricultural_upstream_pct,wetlands_buffer_pct,0.45134395869010907,6.914061948370964e-5,0.45134395869010907,Moderate,Positive
+developed_buffer_pct,thermal_sensitivity,0.45060408132117535,7.130183124592904e-5,0.45060408132117535,Moderate,Positive
+burned_upstream_pct,upstream_area_km2,0.45040600747971044,7.189092793247198e-5,0.45040600747971044,Moderate,Positive
+annual_precip_mm,veg_cover_upstream_pct,0.45032282451612765,7.213966463970323e-5,0.45032282451612765,Moderate,Positive
+annual_precip_mm,wetlands_buffer_pct,-0.450133601707708,7.270845417384209e-5,0.450133601707708,Moderate,Negative
+veg_cover_reach_pct,wetlands_reach_pct,-0.4495913808127736,7.436138960104088e-5,0.4495913808127736,Moderate,Negative
+agricultural_upstream_pct,road_density_upstream,0.44830712300949543,7.84160298294978e-5,0.44830712300949543,Moderate,Positive
+annual_precip_mm,wetlands_reach_pct,-0.4480719639287877,7.918025703590459e-5,0.4480719639287877,Moderate,Negative
+lakes_buffer_pct,veg_height_buffer_m,-0.44560398407724044,8.762684399643561e-5,0.44560398407724044,Moderate,Negative
+veg_height_buffer_m,veg_height_upstream_m,0.44450340820293877,9.165563514113018e-5,0.44450340820293877,Moderate,Positive
+veg_height_upstream_m,wetlands_reach_pct,-0.4444957160905132,9.168438565376746e-5,0.4444957160905132,Moderate,Negative
+high_cascades_upstream_pct,veg_cover_reach_pct,0.44229846311166315,1.0024676187692094e-4,0.44229846311166315,Moderate,Positive
+summer_mean_air_temp_c,wetlands_upstream_pct,0.44156962243702863,1.0324616174939294e-4,0.44156962243702863,Moderate,Positive
+road_density_upstream,veg_height_buffer_m,-0.44127484681687124,1.0448261276341242e-4,0.44127484681687124,Moderate,Negative
+lakes_upstream_pct,shrub_upstream_pct,0.4405073435404303,1.0776635466358542e-4,0.4405073435404303,Moderate,Positive
+developed_reach_pct,high_cascades_reach_pct,-0.44017227988348057,1.0922956529979544e-4,0.44017227988348057,Moderate,Negative
+developed_upstream_pct,high_cascades_reach_pct,-0.4401638659202405,1.0926654363041521e-4,0.4401638659202405,Moderate,Negative
+lakes_reach_pct,veg_height_reach_m,-0.4396554260122088,1.1152263629021775e-4,0.4396554260122088,Moderate,Negative
+agricultural_buffer_pct,lakes_buffer_pct,0.43954401147305205,1.1202272097365906e-4,0.43954401147305205,Moderate,Positive
+lakes_reach_pct,wetlands_reach_pct,0.4394182034428412,1.1258989774853845e-4,0.4394182034428412,Moderate,Positive
+summer_mean_air_temp_c,wetlands_reach_pct,0.4387871047760334,1.1547525584454377e-4,0.4387871047760334,Moderate,Positive
+burned_upstream_pct,developed_upstream_pct,-0.4385343849258223,1.1664968907831863e-4,0.4385343849258223,Moderate,Negative
+veg_cover_reach_pct,wetlands_upstream_pct,-0.4376467818222743,1.2086239644615304e-4,0.4376467818222743,Moderate,Negative
+channel_slope,mean_air_temp_c,-0.43674910098535485,1.2526525667433397e-4,0.43674910098535485,Moderate,Negative
+developed_reach_pct,veg_cover_buffer_pct,-0.4362837881509184,1.2760522908372707e-4,0.4362837881509184,Moderate,Negative
+summer_precip_mm,thermal_sensitivity,0.4344204324449728,1.3738524200657132e-4,0.4344204324449728,Moderate,Positive
+agricultural_reach_pct,forest_upstream_pct,-0.43128728514191966,1.5539981953471838e-4,0.43128728514191966,Moderate,Negative
+lakes_buffer_pct,veg_cover_reach_pct,-0.4304473859793751,1.605856483042345e-4,0.4304473859793751,Moderate,Negative
+agricultural_reach_pct,high_cascades_reach_pct,-0.43004768499222235,1.631090650269229e-4,0.43004768499222235,Moderate,Negative
+agricultural_upstream_pct,high_cascades_reach_pct,-0.43003934030390006,1.6316213399236723e-4,0.43003934030390006,Moderate,Negative
+agricultural_upstream_pct,burned_upstream_pct,-0.4295316238370851,1.664210710783376e-4,0.4295316238370851,Moderate,Negative
+agricultural_buffer_pct,forest_upstream_pct,-0.42835092361516386,1.7423270905347898e-4,0.42835092361516386,Moderate,Negative
+developed_buffer_pct,wetlands_buffer_pct,0.42722864591439225,1.8196913521606461e-4,0.42722864591439225,Moderate,Positive
+veg_cover_reach_pct,wetlands_buffer_pct,-0.42620446189590455,1.8930378100301404e-4,0.42620446189590455,Moderate,Negative
+high_cascades_reach_pct,veg_height_buffer_m,0.42584974139505505,1.9190680751091094e-4,0.42584974139505505,Moderate,Positive
+developed_reach_pct,forest_upstream_pct,-0.42492555670575205,1.9884401223158044e-4,0.42492555670575205,Moderate,Negative
+agricultural_reach_pct,road_density_upstream,0.42371064742617814,2.0831416767164157e-4,0.42371064742617814,Moderate,Positive
+road_density_upstream,veg_height_reach_m,-0.4233935834373668,2.1085293752864942e-4,0.4233935834373668,Moderate,Negative
+road_density_upstream,wetlands_upstream_pct,0.42322725610280076,2.1219607726696843e-4,0.42322725610280076,Moderate,Positive
+high_cascades_buffer_pct,veg_height_reach_m,0.4217929148638795,2.2410914086057332e-4,0.4217929148638795,Moderate,Positive
+high_cascades_buffer_pct,summer_precip_mm,-0.4213954147880656,2.2751761937289672e-4,0.4213954147880656,Moderate,Negative
+developed_buffer_pct,wetlands_upstream_pct,0.42134512452228223,2.2795222274463178e-4,0.42134512452228223,Moderate,Positive
+veg_height_upstream_m,wetlands_buffer_pct,-0.4199109687381833,2.4067148538797767e-4,0.4199109687381833,Moderate,Negative
+lakes_reach_pct,veg_cover_reach_pct,-0.41778307650836655,2.6074674642195816e-4,0.41778307650836655,Moderate,Negative
+elevation_m,wetlands_reach_pct,-0.4170872603692994,2.6763732675783025e-4,0.4170872603692994,Moderate,Negative
+road_density_upstream,veg_cover_reach_pct,-0.4160609790299441,2.781055855387571e-4,0.4160609790299441,Moderate,Negative
+channel_slope,summer_mean_max_air_temp_c,-0.4134730649808469,3.061910034887205e-4,0.4134730649808469,Moderate,Negative
+base_flow_index,wetlands_reach_pct,-0.4115477563564934,3.287453179667832e-4,0.4115477563564934,Moderate,Negative
+developed_buffer_pct,veg_cover_buffer_pct,-0.41133170009295283,3.313690372108713e-4,0.41133170009295283,Moderate,Negative
+veg_height_reach_m,wetlands_upstream_pct,-0.4094820717143741,3.546272924386251e-4,0.4094820717143741,Moderate,Negative
+forest_upstream_pct,thermal_sensitivity,-0.4073377250174763,3.8345531868966276e-4,0.4073377250174763,Moderate,Negative
+veg_cover_upstream_pct,wetlands_upstream_pct,-0.4070926158240662,3.8688344477844083e-4,0.4070926158240662,Moderate,Negative
+high_cascades_upstream_pct,veg_cover_upstream_pct,0.40700752486138125,3.88080072799335e-4,0.40700752486138125,Moderate,Positive
+veg_cover_buffer_pct,wetlands_reach_pct,-0.4065462654865261,3.9462581280291786e-4,0.4065462654865261,Moderate,Negative
+summer_mean_max_air_temp_c,wetlands_reach_pct,0.40598821743502084,4.026799094387634e-4,0.40598821743502084,Moderate,Positive
+road_density_reach,wetlands_reach_pct,0.40347526785764976,4.408427599731368e-4,0.40347526785764976,Moderate,Positive
+high_cascades_buffer_pct,veg_height_buffer_m,0.40329547920167985,4.436958111480038e-4,0.40329547920167985,Moderate,Positive
+road_density_reach,wetlands_buffer_pct,0.4029368001128268,4.494380846837842e-4,0.4029368001128268,Moderate,Positive
+agricultural_reach_pct,veg_cover_buffer_pct,-0.40280714336758056,4.515304635575035e-4,0.40280714336758056,Moderate,Negative
+veg_height_upstream_m,wetlands_upstream_pct,-0.4013509887756626,4.756481163723514e-4,0.4013509887756626,Moderate,Negative
+high_cascades_reach_pct,summer_mean_air_temp_c,-0.4007593377218888,4.857788234162719e-4,0.4007593377218888,Moderate,Negative
+channel_slope,veg_cover_reach_pct,0.3975358144535574,5.445155203176455e-4,0.3975358144535574,Moderate,Positive
+road_density_reach,summer_precip_mm,-0.39694742428872415,5.559104446346552e-4,0.39694742428872415,Moderate,Negative
+high_cascades_reach_pct,wet_season_precip_mm,0.39568414031971205,5.811129276112048e-4,0.39568414031971205,Moderate,Positive
+summer_mean_max_air_temp_c,wetlands_buffer_pct,0.3950029250944658,5.95130886963835e-4,0.3950029250944658,Moderate,Positive
+base_flow_index,veg_cover_buffer_pct,0.39433244642148924,6.092278858447209e-4,0.39433244642148924,Moderate,Positive
+lakes_reach_pct,wetlands_upstream_pct,0.39431091035684906,6.09685684755279e-4,0.39431091035684906,Moderate,Positive
+burned_buffer_pct,shrub_upstream_pct,0.39309393763116257,6.360698312193325e-4,0.39309393763116257,Moderate,Positive
+summer_mean_max_air_temp_c,wetlands_upstream_pct,0.3922516448258988,6.549347417896811e-4,0.3922516448258988,Moderate,Positive
+lakes_buffer_pct,wetlands_buffer_pct,0.39210167038005045,6.583466258149873e-4,0.39210167038005045,Moderate,Positive
+lakes_upstream_pct,upstream_area_km2,0.3913354072893033,6.760326048418364e-4,0.3913354072893033,Moderate,Positive
+lakes_reach_pct,veg_height_upstream_m,-0.39126998983150113,6.775623318868718e-4,0.39126998983150113,Moderate,Negative
+summer_mean_air_temp_c,wetlands_buffer_pct,0.39017431673288133,7.036559268285281e-4,0.39017431673288133,Moderate,Positive
+summer_mean_air_temp_c,thermal_sensitivity,0.3893606096971082,7.236219488115925e-4,0.3893606096971082,Weak,Positive
+high_cascades_upstream_pct,lakes_reach_pct,-0.3872770708559242,7.771145892965237e-4,0.3872770708559242,Weak,Negative
+lakes_reach_pct,mean_stream_temp_c,0.3835502288690935,8.818300345452279e-4,0.3835502288690935,Weak,Positive
+annual_precip_mm,high_cascades_reach_pct,0.3831320896018284,8.943437572834778e-4,0.3831320896018284,Weak,Positive
+mean_air_temp_c,veg_cover_upstream_pct,-0.3831048272281046,8.951652069375537e-4,0.3831048272281046,Weak,Negative
+developed_buffer_pct,high_cascades_upstream_pct,-0.38307287033486154,8.961289792883687e-4,0.38307287033486154,Weak,Negative
+mean_air_temp_c,wetlands_reach_pct,0.38292658420644426,9.005527729679663e-4,0.38292658420644426,Weak,Positive
+lakes_buffer_pct,wetlands_reach_pct,0.3818749034858701,9.329436722123052e-4,0.3818749034858701,Weak,Positive
+agricultural_upstream_pct,burned_reach_pct,-0.3817505022642224,9.368441491170998e-4,0.3817505022642224,Weak,Negative
+high_cascades_buffer_pct,solar_exposure,-0.3815609922985953,9.428144561298701e-4,0.3815609922985953,Weak,Negative
+road_density_upstream,summer_precip_mm,-0.3805358159044209,9.757134108614451e-4,0.3805358159044209,Weak,Negative
+forest_upstream_pct,upstream_area_km2,0.3794140380014569,0.001012901043866421,0.3794140380014569,Weak,Positive
+mean_stream_temp_c,wetlands_reach_pct,0.3784511316412988,0.0010458404691229273,0.3784511316412988,Weak,Positive
+thermal_sensitivity,veg_height_buffer_m,-0.37778599806931973,0.0010691565348903698,0.37778599806931973,Weak,Negative
+base_flow_index,burned_upstream_pct,0.37733370377530673,0.0010852791936650785,0.37733370377530673,Weak,Positive
+burned_reach_pct,developed_upstream_pct,-0.37534006305551953,0.0011589991096281338,0.37534006305551953,Weak,Negative
+lakes_buffer_pct,thermal_sensitivity,0.37400756401057805,0.001210764942986664,0.37400756401057805,Weak,Positive
+shrub_upstream_pct,upstream_area_km2,0.37268239732924413,0.0012643089171404664,0.37268239732924413,Weak,Positive
+summer_mean_air_temp_c,summer_precip_mm,-0.3720829245540956,0.0012892260335721772,0.3720829245540956,Weak,Negative
+forest_upstream_pct,mean_stream_temp_c,-0.37127741993708996,0.0013234049481838372,0.37127741993708996,Weak,Negative
+annual_precip_mm,channel_slope,0.37030007504081214,0.0013659723649648292,0.37030007504081214,Weak,Positive
+developed_buffer_pct,road_density_reach,0.37022792611415706,0.0013691631839911622,0.37022792611415706,Weak,Positive
+high_cascades_buffer_pct,veg_cover_reach_pct,0.3687669326322406,0.0014352401178752139,0.3687669326322406,Weak,Positive
+mean_air_temp_c,wetlands_upstream_pct,0.3675015316810458,0.0014947799769104986,0.3675015316810458,Weak,Positive
+high_cascades_reach_pct,lakes_reach_pct,-0.3671760535056015,0.001510450047554901,0.3671760535056015,Weak,Negative
+summer_mean_air_temp_c,veg_height_upstream_m,-0.367105404973528,0.0015138708958275515,0.367105404973528,Weak,Negative
+road_density_reach,road_density_upstream,0.36625607433397106,0.0015555459852183429,0.36625607433397106,Weak,Positive
+developed_reach_pct,high_cascades_buffer_pct,-0.3660262165229962,0.0015670009713253386,0.3660262165229962,Weak,Negative
+developed_upstream_pct,high_cascades_buffer_pct,-0.36601921987356717,0.0015673508384979051,0.36601921987356717,Weak,Negative
+elevation_m,wetlands_buffer_pct,-0.364832710154333,0.0016277099995154476,0.364832710154333,Weak,Negative
+agricultural_buffer_pct,high_cascades_upstream_pct,-0.36401460121779494,0.0016705386787387866,0.36401460121779494,Weak,Negative
+annual_precip_mm,burned_upstream_pct,0.3608139801291004,0.0018480093670794062,0.3608139801291004,Weak,Positive
+wetlands_reach_pct,wetlands_upstream_pct,0.35878364809237734,0.001969196080760849,0.35878364809237734,Weak,Positive
+base_flow_index,wetlands_buffer_pct,-0.35868557017130026,0.0019752268455630606,0.35868557017130026,Weak,Negative
+burned_upstream_pct,wet_season_precip_mm,0.35826911259609345,0.0020010197686972653,0.35826911259609345,Weak,Positive
+high_cascades_buffer_pct,lakes_reach_pct,-0.35764873037140027,0.0020400034990948335,0.35764873037140027,Weak,Negative
+agricultural_reach_pct,high_cascades_buffer_pct,-0.35760708762451976,0.0020426445075740762,0.35760708762451976,Weak,Negative
+agricultural_upstream_pct,high_cascades_buffer_pct,-0.3576001485807992,0.0020430848841275218,0.3576001485807992,Weak,Negative
+lakes_buffer_pct,veg_height_upstream_m,-0.35652568604594137,0.0021123111687875173,0.35652568604594137,Weak,Negative
+veg_cover_upstream_pct,veg_height_buffer_m,0.3556606150791376,0.002169567848297138,0.3556606150791376,Weak,Positive
+channel_slope,wet_season_precip_mm,0.35563026623853505,0.0021716015862898175,0.35563026623853505,Weak,Positive
+mean_air_temp_c,wetlands_buffer_pct,0.3548164391722445,0.002226779358711628,0.3548164391722445,Weak,Positive
+shrub_upstream_pct,solar_exposure,-0.35440941156510186,0.002254844691924607,0.35440941156510186,Weak,Negative
+summer_mean_air_temp_c,veg_cover_upstream_pct,-0.3535494079349944,0.0023151886025267743,0.3535494079349944,Weak,Negative
+veg_height_buffer_m,wetlands_upstream_pct,-0.35302397206918296,0.002352765056194528,0.35302397206918296,Weak,Negative
+elevation_m,road_density_upstream,-0.35177204828240927,0.002444506611228192,0.35177204828240927,Weak,Negative
+summer_max_air_temp_c,veg_height_buffer_m,-0.34936232508141507,0.002630153114764111,0.34936232508141507,Weak,Negative
+developed_buffer_pct,forest_upstream_pct,-0.34923350620335897,0.0026404233264512023,0.34923350620335897,Weak,Negative
+summer_max_air_temp_c,veg_cover_buffer_pct,-0.3489441774750938,0.0026636211727721903,0.3489441774750938,Weak,Negative
+agricultural_upstream_pct,summer_max_air_temp_c,0.34810174756953965,0.0027322068660815546,0.34810174756953965,Weak,Positive
+lakes_reach_pct,thermal_sensitivity,0.3473413764039266,0.0027954624735708755,0.3473413764039266,Weak,Positive
+high_cascades_buffer_pct,wet_season_precip_mm,0.3471977585322472,0.002807555947938134,0.3471977585322472,Weak,Positive
+high_cascades_reach_pct,veg_height_upstream_m,0.34487947631986926,0.0030093421693691003,0.34487947631986926,Weak,Positive
+mean_air_temp_c,veg_height_upstream_m,-0.3442134681869719,0.0030696571339616785,0.3442134681869719,Weak,Negative
+mean_stream_temp_c,wetlands_upstream_pct,0.3425837472214141,0.0032218197226629997,0.3425837472214141,Weak,Positive
+agricultural_reach_pct,burned_upstream_pct,-0.34080192335828335,0.003395845755524096,0.34080192335828335,Weak,Negative
+high_cascades_reach_pct,lakes_buffer_pct,-0.33999879786033826,0.0034769860374752604,0.33999879786033826,Weak,Negative
+developed_buffer_pct,high_cascades_reach_pct,-0.33998682445554895,0.003478208665420812,0.33998682445554895,Weak,Negative
+veg_cover_buffer_pct,wetlands_buffer_pct,-0.3394711385737101,0.003531230958916609,0.3394711385737101,Weak,Negative
+agricultural_buffer_pct,channel_slope,-0.33920242126073746,0.003559144307885731,0.33920242126073746,Weak,Negative
+base_flow_index,road_density_upstream,-0.3385676764789563,0.0036258604097054725,0.3385676764789563,Weak,Negative
+road_density_reach,veg_cover_reach_pct,-0.3385226525175485,0.0036306347290357976,0.3385226525175485,Weak,Negative
+developed_reach_pct,summer_max_air_temp_c,0.3367048614267313,0.0038281248950116087,0.3367048614267313,Weak,Positive
+lakes_reach_pct,wetlands_buffer_pct,0.33500202824608405,0.004021728321549567,0.33500202824608405,Weak,Positive
+lakes_reach_pct,veg_height_buffer_m,-0.3349755626759686,0.0040248047241990825,0.3349755626759686,Weak,Negative
+summer_max_air_temp_c,wetlands_buffer_pct,0.33444209631701743,0.0040872629979262776,0.33444209631701743,Weak,Positive
+high_cascades_buffer_pct,summer_mean_air_temp_c,-0.33337561896658574,0.004214711547156469,0.33337561896658574,Weak,Negative
+veg_cover_buffer_pct,veg_height_upstream_m,0.33335745597276434,0.0042169123037687495,0.33335745597276434,Weak,Positive
+channel_slope,lakes_upstream_pct,-0.3331430409396797,0.004242969518546413,0.3331430409396797,Weak,Negative
+high_cascades_upstream_pct,solar_exposure,-0.3328455803957967,0.0042793555504596625,0.3328455803957967,Weak,Negative
+burned_reach_pct,wet_season_precip_mm,0.3327589234750237,0.004290007552935293,0.3327589234750237,Weak,Positive
+elevation_m,forest_upstream_pct,0.3320333545189807,0.004380122533861108,0.3320333545189807,Weak,Positive
+road_density_reach,upstream_area_km2,0.33153498332556075,0.004442988293440919,0.33153498332556075,Weak,Positive
+channel_slope,road_density_reach,-0.33079453730134667,0.004537867164138065,0.33079453730134667,Weak,Negative
+agricultural_reach_pct,summer_max_air_temp_c,0.3305484996989712,0.004569788851691348,0.3305484996989712,Weak,Positive
+agricultural_buffer_pct,road_density_reach,0.3302435371196423,0.0046096316943287086,0.3302435371196423,Weak,Positive
+high_cascades_upstream_pct,lakes_buffer_pct,-0.3295336711171699,0.004703568651446277,0.3295336711171699,Weak,Negative
+annual_precip_mm,high_cascades_buffer_pct,0.3294190957451882,0.0047188883240039114,0.3294190957451882,Weak,Positive
+road_density_upstream,shrub_upstream_pct,-0.32915504476390745,0.004754362486582897,0.32915504476390745,Weak,Negative
+road_density_reach,wet_season_precip_mm,-0.32836901104910177,0.004861364484398001,0.32836901104910177,Weak,Negative
+high_cascades_upstream_pct,wet_season_precip_mm,0.32750359290493253,0.004981633125630047,0.32750359290493253,Weak,Positive
+mean_air_temp_c,thermal_sensitivity,0.32741178814206023,0.00499454453155157,0.32741178814206023,Weak,Positive
+agricultural_reach_pct,burned_reach_pct,-0.32665780368992525,0.005101709579182323,0.32665780368992525,Weak,Negative
+annual_precip_mm,road_density_reach,-0.32602087588658185,0.0051938161491851265,0.32602087588658185,Weak,Negative
+summer_mean_max_air_temp_c,veg_cover_upstream_pct,-0.32601931667761647,0.005194043419239236,0.32601931667761647,Weak,Negative
+developed_buffer_pct,summer_max_air_temp_c,0.3259630221259111,0.00520225479453984,0.3259630221259111,Weak,Positive
+summer_mean_air_temp_c,upstream_area_km2,0.32407355672309385,0.005484601200315353,0.32407355672309385,Weak,Positive
+burned_upstream_pct,high_cascades_upstream_pct,0.3239597096565021,0.005502037783184033,0.3239597096565021,Weak,Positive
+agricultural_reach_pct,channel_slope,-0.32395920758353625,0.0055021147879232846,0.32395920758353625,Weak,Negative
+lakes_reach_pct,summer_mean_air_temp_c,0.32277771086808765,0.005685982755596397,0.32277771086808765,Weak,Positive
+forest_upstream_pct,shrub_upstream_pct,-0.3212338571315579,0.005934401091253871,0.3212338571315579,Weak,Negative
+agricultural_buffer_pct,high_cascades_reach_pct,-0.3199541504454285,0.0061475185050012815,0.3199541504454285,Weak,Negative
+high_cascades_reach_pct,veg_cover_buffer_pct,0.31963652647379426,0.006201447565102436,0.31963652647379426,Weak,Positive
+mean_stream_temp_c,upstream_area_km2,0.31879863656826807,0.006345716620916653,0.31879863656826807,Weak,Positive
+annual_precip_mm,burned_reach_pct,0.31778431869211066,0.006524310652619381,0.31778431869211066,Weak,Positive
+forest_upstream_pct,wetlands_reach_pct,-0.3167055956929244,0.006719083254890457,0.3167055956929244,Weak,Negative
+developed_upstream_pct,summer_max_air_temp_c,0.3158333976046726,0.006880285865531022,0.3158333976046726,Weak,Positive
+mean_stream_temp_c,wetlands_buffer_pct,0.3154046348105826,0.006960770196991817,0.3154046348105826,Weak,Positive
+lakes_buffer_pct,summer_mean_air_temp_c,0.31480100904577163,0.007075480364979292,0.31480100904577163,Weak,Positive
+road_density_upstream,veg_cover_buffer_pct,-0.31407988878460497,0.007214692674746059,0.31407988878460497,Weak,Negative
+forest_upstream_pct,wetlands_buffer_pct,-0.3140633201463843,0.007217919314864263,0.3140633201463843,Weak,Negative
+high_cascades_upstream_pct,lakes_upstream_pct,0.31354388526569704,0.007319720648530481,0.31354388526569704,Weak,Positive
+upstream_area_km2,veg_height_buffer_m,-0.31312863538457575,0.007402007554885515,0.31312863538457575,Weak,Negative
+high_cascades_upstream_pct,upstream_area_km2,0.3122810849086152,0.007572483115649398,0.3122810849086152,Weak,Positive
+agricultural_upstream_pct,veg_cover_buffer_pct,-0.31223042317671723,0.00758278136682744,0.31223042317671723,Weak,Negative
+developed_upstream_pct,veg_cover_buffer_pct,-0.3114049045978053,0.007752327723088426,0.3114049045978053,Weak,Negative
+channel_slope,summer_max_air_temp_c,-0.3113634747649972,0.007760923536966002,0.3113634747649972,Weak,Negative
+annual_precip_mm,high_cascades_upstream_pct,0.31010292194040595,0.008026487229533252,0.31010292194040595,Weak,Positive
+veg_cover_buffer_pct,veg_cover_upstream_pct,0.3030785456646887,0.009657024998567021,0.3030785456646887,Weak,Positive
+lakes_buffer_pct,wetlands_upstream_pct,0.30240820214081754,0.009826767550817905,0.30240820214081754,Weak,Positive
+summer_max_air_temp_c,wetlands_reach_pct,0.3024024777132559,0.00982822820323026,0.3024024777132559,Weak,Positive
+channel_slope,shrub_upstream_pct,-0.30216024380064527,0.009890210628662022,0.30216024380064527,Weak,Negative
+burned_upstream_pct,channel_slope,-0.3008095382771911,0.010242111529067843,0.3008095382771911,Weak,Negative
+developed_reach_pct,road_density_reach,0.2994276372746076,0.010613374655890295,0.2994276372746076,Weak,Positive
+elevation_m,summer_max_air_temp_c,-0.2958072662718072,0.011642054477671637,0.2958072662718072,Weak,Negative
+burned_buffer_pct,veg_cover_buffer_pct,-0.29394251353425005,0.012204887737256476,0.29394251353425005,Weak,Negative
+base_flow_index,channel_slope,0.293816757033161,0.012243679322325285,0.293816757033161,Weak,Positive
+burned_upstream_pct,developed_reach_pct,-0.29142494295238336,0.013002084656822177,0.29142494295238336,Weak,Negative
+road_density_upstream,veg_height_upstream_m,-0.290808820583233,0.013203909326895191,0.290808820583233,Weak,Negative
+thermal_sensitivity,veg_cover_buffer_pct,-0.28992056183508985,0.013499645409836614,0.28992056183508985,Weak,Negative
+wetlands_buffer_pct,wetlands_upstream_pct,0.2895714533175364,0.013617435059850802,0.2895714533175364,Weak,Positive
+road_density_reach,veg_height_reach_m,-0.28831277455851073,0.014049519139028632,0.28831277455851073,Weak,Negative
+road_density_buffer,veg_cover_buffer_pct,-0.2880822637573893,0.014129919169520555,0.2880822637573893,Weak,Negative
+burned_upstream_pct,veg_cover_buffer_pct,-0.2867208360311818,0.01461291968784395,0.2867208360311818,Weak,Negative
+road_density_upstream,veg_cover_upstream_pct,-0.2847955238011171,0.015320244439000374,0.2847955238011171,Weak,Negative
+channel_slope,veg_height_reach_m,0.28325331549776034,0.01590790581577073,0.28325331549776034,Weak,Positive
+high_cascades_buffer_pct,lakes_buffer_pct,-0.2827267397123003,0.016112950698688344,0.2827267397123003,Weak,Negative
+developed_buffer_pct,high_cascades_buffer_pct,-0.28271678320151067,0.01611684948337455,0.28271678320151067,Weak,Negative
+channel_slope,thermal_sensitivity,-0.28205644578558814,0.01637724288961051,0.28205644578558814,Weak,Negative
+veg_cover_buffer_pct,wetlands_upstream_pct,-0.2813495298985358,0.016660003221556696,0.2813495298985358,Weak,Negative
+high_cascades_buffer_pct,veg_height_upstream_m,0.2799968532612282,0.017212765784729633,0.2799968532612282,Weak,Positive
+base_flow_index,solar_exposure,-0.2794695918049765,0.017432451573204943,0.2794695918049765,Weak,Negative
+burned_upstream_pct,road_density_upstream,-0.2792296887551432,0.017533201656402486,0.2792296887551432,Weak,Negative
+channel_slope,developed_reach_pct,-0.2789159544972928,0.017665711268779916,0.2789159544972928,Weak,Negative
+burned_upstream_pct,high_cascades_reach_pct,0.2777623370744336,0.018160365794801514,0.2777623370744336,Weak,Positive
+road_density_buffer,road_density_upstream,0.27623579800388026,0.018833126802427547,0.27623579800388026,Weak,Positive
+road_density_buffer,veg_height_buffer_m,-0.27555764877644195,0.019138767551953872,0.27555764877644195,Weak,Negative
+upstream_area_km2,veg_height_upstream_m,0.2750337642292109,0.019377776503316735,0.2750337642292109,Weak,Positive
+burned_reach_pct,upstream_area_km2,0.274921473537022,0.019429336994502666,0.274921473537022,Weak,Positive
+burned_upstream_pct,developed_buffer_pct,-0.2726020509575703,0.02052087262328728,0.2726020509575703,Weak,Negative
+mean_stream_temp_c,road_density_reach,0.27250287759785385,0.02056868758995689,0.27250287759785385,Weak,Positive
+base_flow_index,burned_reach_pct,0.2712673283540212,0.021172402509864963,0.2712673283540212,Weak,Positive
+forest_upstream_pct,wetlands_upstream_pct,-0.27015659189063496,0.021727957593483893,0.27015659189063496,Weak,Negative
+shrub_upstream_pct,veg_cover_buffer_pct,-0.2697191197240243,0.021950149245448802,0.2697191197240243,Weak,Negative
+forest_upstream_pct,veg_height_buffer_m,0.2685568626907129,0.022549873478688198,0.2685568626907129,Weak,Positive
+forest_upstream_pct,wet_season_precip_mm,0.2666838216557995,0.02354566971877592,0.2666838216557995,Weak,Positive
+summer_max_air_temp_c,veg_cover_reach_pct,-0.26637610782688753,0.023712783530604575,0.26637610782688753,Weak,Negative
+agricultural_buffer_pct,high_cascades_buffer_pct,-0.2660585695659225,0.023886287150345797,0.2660585695659225,Weak,Negative
+elevation_m,road_density_reach,-0.26550764741375876,0.02418986817993307,0.26550764741375876,Weak,Negative
+burned_reach_pct,summer_mean_max_air_temp_c,-0.265065007906746,0.024436145913511176,0.265065007906746,Weak,Negative
+burned_reach_pct,developed_reach_pct,-0.2632233433761234,0.025483766155853793,0.2632233433761234,Weak,Negative
+lakes_buffer_pct,road_density_upstream,0.2628790905520621,0.02568375110243437,0.2628790905520621,Weak,Positive
+road_density_reach,wetlands_upstream_pct,0.26200778810139846,0.026195854621029913,0.26200778810139846,Weak,Positive
+burned_reach_pct,veg_cover_buffer_pct,-0.26153955737193185,0.026474603287973686,0.26153955737193185,Weak,Negative
+summer_max_air_temp_c,wetlands_upstream_pct,0.261267857582771,0.026637498926962655,0.261267857582771,Weak,Positive
+high_cascades_buffer_pct,veg_cover_buffer_pct,0.26101936989992786,0.026787218597198015,0.26101936989992786,Weak,Positive
+summer_precip_mm,veg_height_upstream_m,-0.2610052051393111,0.02679577457275517,0.2610052051393111,Weak,Negative
+forest_upstream_pct,summer_precip_mm,-0.25946267608087165,0.0277414298726244,0.25946267608087165,Weak,Negative
+mean_air_temp_c,road_density_buffer,0.2592709607680587,0.027860905429533567,0.2592709607680587,Weak,Positive
+lakes_reach_pct,veg_cover_upstream_pct,-0.25893880134318226,0.028068932094951204,0.25893880134318226,Weak,Negative
+shrub_upstream_pct,veg_cover_upstream_pct,-0.2577065973247526,0.028852121454238766,0.2577065973247526,Weak,Negative
+upstream_area_km2,veg_cover_upstream_pct,0.257186957360602,0.029187879724371202,0.257186957360602,Weak,Positive
+burned_buffer_pct,wet_season_precip_mm,0.25691768714752705,0.029363154980861284,0.25691768714752705,Weak,Positive
+base_flow_index,summer_precip_mm,-0.256704703553852,0.02950241845793089,0.256704703553852,Weak,Negative
+summer_mean_max_air_temp_c,veg_height_upstream_m,-0.2560845229402704,0.02991110494015481,0.2560845229402704,Weak,Negative
+shrub_upstream_pct,summer_mean_max_air_temp_c,-0.2554461018939897,0.030336774403190603,0.2554461018939897,Weak,Negative
+annual_precip_mm,burned_buffer_pct,0.2530675886008348,0.03196774397862434,0.2530675886008348,Weak,Positive
+summer_max_air_temp_c,veg_height_reach_m,-0.25305971482557965,0.031973262843953076,0.25305971482557965,Weak,Negative
+agricultural_upstream_pct,burned_buffer_pct,-0.25266229652660094,0.032252859987603966,0.25266229652660094,Weak,Negative
+burned_reach_pct,wetlands_buffer_pct,-0.2512328324969706,0.03327553769546743,0.2512328324969706,Weak,Negative
+summer_mean_max_air_temp_c,upstream_area_km2,0.25084222752560614,0.03355966302124047,0.25084222752560614,Weak,Positive
+burned_reach_pct,summer_max_air_temp_c,-0.2504529843534434,0.03384481451114607,0.2504529843534434,Weak,Negative
+burned_reach_pct,lakes_upstream_pct,0.2498358699335456,0.03430105215001955,0.2498358699335456,Weak,Positive
+forest_upstream_pct,road_density_upstream,-0.2495839214130999,0.034488792102753685,0.2495839214130999,Weak,Negative
+burned_reach_pct,road_density_upstream,-0.2475890153267071,0.03600583415027225,0.2475890153267071,Weak,Negative
+elevation_m,upstream_area_km2,-0.2472643673963242,0.03625790455767586,0.2472643673963242,Weak,Negative
+lakes_reach_pct,road_density_upstream,0.24714032973275635,0.036354600376008905,0.24714032973275635,Weak,Positive
+road_density_upstream,wetlands_buffer_pct,0.24407765107070653,0.038811228239282736,0.24407765107070653,Weak,Positive
+burned_buffer_pct,developed_upstream_pct,-0.24363418788462657,0.039178116676977126,0.24363418788462657,Weak,Negative
+burned_upstream_pct,thermal_sensitivity,-0.24352306143016214,0.03927050455648251,0.24352306143016214,Weak,Negative
+high_cascades_upstream_pct,summer_max_air_temp_c,0.24320308341993668,0.03953753794620818,0.24320308341993668,Weak,Positive
+annual_precip_mm,forest_upstream_pct,0.2431387055718476,0.03959144541842674,0.2431387055718476,Weak,Positive
+lakes_buffer_pct,veg_cover_upstream_pct,-0.24127171494923708,0.04118154049178768,0.24127171494923708,Weak,Negative
+burned_buffer_pct,road_density_upstream,-0.24081019924565447,0.04158266284709411,0.24081019924565447,Weak,Negative
+agricultural_buffer_pct,burned_reach_pct,-0.23984637378317328,0.042430805108696124,0.23984637378317328,Weak,Negative
+annual_precip_mm,summer_precip_mm,0.2393007060488605,0.04291729198062666,0.2393007060488605,Weak,Positive
+summer_max_air_temp_c,upstream_area_km2,0.23720582718316666,0.04482801101186418,0.23720582718316666,Weak,Positive
+lakes_buffer_pct,mean_air_temp_c,0.2357239907251579,0.04622153285587549,0.2357239907251579,Weak,Positive
+thermal_sensitivity,wetlands_upstream_pct,0.23553679911380548,0.04640007976003213,0.23553679911380548,Weak,Positive
+lakes_upstream_pct,veg_cover_buffer_pct,-0.23550288899738206,0.04643248456324933,0.23550288899738206,Weak,Negative
+mean_air_temp_c,upstream_area_km2,0.23543995262302603,0.04649267650852473,0.23543995262302603,Weak,Positive
+burned_upstream_pct,veg_height_reach_m,0.2353095122981202,0.04661763341089453,0.2353095122981202,Weak,Positive
+lakes_upstream_pct,wetlands_reach_pct,0.2340282807895977,0.04785976441328099,0.2340282807895977,Weak,Positive
+developed_upstream_pct,solar_exposure,0.23369832629830228,0.04818401827629737,0.23369832629830228,Weak,Positive
+mean_stream_temp_c,summer_precip_mm,0.23358767850740145,0.04829315783425914,0.23358767850740145,Weak,Positive
+high_cascades_reach_pct,mean_air_temp_c,-0.23333359738962745,0.04854454459820645,0.23333359738962745,Weak,Negative
+agricultural_upstream_pct,shrub_upstream_pct,-0.23264598324968455,0.04923026308605838,0.23264598324968455,Weak,Negative
+burned_upstream_pct,high_cascades_buffer_pct,0.23163990434473408,0.05024787894944405,0.23163990434473408,Weak,Positive
+lakes_reach_pct,summer_precip_mm,0.23025010279888983,0.051681925756853264,0.23025010279888983,Weak,Positive
+forest_upstream_pct,veg_cover_buffer_pct,0.2300882109417348,0.05185112872499986,0.2300882109417348,Weak,Positive
+lakes_upstream_pct,solar_exposure,-0.2293656386069578,0.052611869698667935,0.2293656386069578,Weak,Negative
+lakes_buffer_pct,veg_cover_buffer_pct,-0.22921439892617862,0.05277224793505653,0.22921439892617862,Weak,Negative
+high_cascades_upstream_pct,summer_mean_air_temp_c,-0.22698601139411392,0.055181967509316365,0.22698601139411392,Weak,Negative
+channel_slope,wetlands_reach_pct,-0.22617190646506427,0.056084393203486016,0.22617190646506427,Weak,Negative
+elevation_m,solar_exposure,-0.22182017014843763,0.06111425403769721,0.22182017014843763,Weak,Negative
+summer_max_air_temp_c,veg_cover_upstream_pct,-0.2212698923490186,0.06177552921309859,0.2212698923490186,Weak,Negative
+road_density_buffer,summer_mean_air_temp_c,0.22059828725557162,0.06259044320338614,0.22059828725557162,Weak,Positive
+mean_stream_temp_c,summer_max_air_temp_c,0.21972614891402542,0.06366163817839343,0.21972614891402542,Weak,Positive
+burned_upstream_pct,summer_mean_air_temp_c,-0.21959878172891312,0.06381930814885783,0.21959878172891312,Weak,Negative
+burned_upstream_pct,summer_mean_max_air_temp_c,-0.21813506706940589,0.06565401125986825,0.21813506706940589,Weak,Negative
+developed_upstream_pct,shrub_upstream_pct,-0.2173978130455162,0.06659410680532396,0.2173978130455162,Weak,Negative
+lakes_reach_pct,mean_air_temp_c,0.21718833744661417,0.0668631851765844,0.21718833744661417,Weak,Positive
+mean_air_temp_c,shrub_upstream_pct,-0.2171037718267216,0.06697206036270842,0.2171037718267216,Weak,Negative
+lakes_reach_pct,lakes_upstream_pct,0.21695608288389018,0.06716254695705404,0.21695608288389018,Weak,Positive
+road_density_buffer,summer_mean_max_air_temp_c,0.2160364081694681,0.06835856531086226,0.2160364081694681,Weak,Positive
+channel_slope,wetlands_upstream_pct,-0.21571119459509466,0.06878557611796365,0.21571119459509466,Weak,Negative
+burned_reach_pct,summer_precip_mm,0.2125269877361865,0.07308074909698403,0.2125269877361865,Weak,Positive
+burned_reach_pct,developed_buffer_pct,-0.21163033798516692,0.0743282124471698,0.21163033798516692,Weak,Negative
+thermal_sensitivity,wetlands_reach_pct,0.21157795842117938,0.07440160850947475,0.21157795842117938,Weak,Positive
+shrub_upstream_pct,summer_mean_air_temp_c,-0.21076756061957658,0.07554456552800382,0.21076756061957658,Weak,Negative
+summer_precip_mm,wet_season_precip_mm,0.2106727568071795,0.07567918459500689,0.2106727568071795,Weak,Positive
+high_cascades_upstream_pct,road_density_reach,0.21011531010363382,0.0764746236418068,0.21011531010363382,Weak,Positive
+high_cascades_reach_pct,lakes_upstream_pct,0.21004911984608568,0.07656951405725798,0.21004911984608568,Weak,Positive
+solar_exposure,summer_mean_air_temp_c,0.20815709494677326,0.07932186143605247,0.20815709494677326,Weak,Positive
+lakes_buffer_pct,summer_mean_max_air_temp_c,0.20772980164810484,0.07995421446375461,0.20772980164810484,Weak,Positive
+high_cascades_buffer_pct,wetlands_upstream_pct,-0.20741350177813786,0.0804248843190265,0.20741350177813786,Weak,Negative
+solar_exposure,wet_season_precip_mm,-0.2064201741205157,0.08191733387658418,0.2064201741205157,Weak,Negative
+channel_slope,developed_buffer_pct,-0.206371065577884,0.08199168449786032,0.206371065577884,Weak,Negative
+base_flow_index,burned_buffer_pct,0.2063384221434314,0.08204113646887423,0.2063384221434314,Weak,Positive
+summer_mean_max_air_temp_c,thermal_sensitivity,0.20534221151587537,0.08356172363544734,0.20534221151587537,Weak,Positive
+agricultural_reach_pct,road_density_reach,0.20471359171138254,0.08453266439306928,0.20471359171138254,Weak,Positive
+burned_upstream_pct,elevation_m,0.2036244357172459,0.08623604992772815,0.2036244357172459,Weak,Positive
+high_cascades_reach_pct,wetlands_upstream_pct,-0.20358113734459835,0.08630432290087953,0.20358113734459835,Weak,Negative
+burned_upstream_pct,lakes_reach_pct,-0.20310531035732485,0.08705742509228509,0.20310531035732485,Weak,Negative
+solar_exposure,thermal_sensitivity,0.20305213457716342,0.08714190897937946,0.20305213457716342,Weak,Positive
+burned_upstream_pct,mean_air_temp_c,-0.2019946137856481,0.08883554567120466,0.2019946137856481,Weak,Negative
+channel_slope,wetlands_buffer_pct,-0.2013008257815321,0.08996068168866644,0.2013008257815321,Weak,Negative
+annual_precip_mm,solar_exposure,-0.20030878602812802,0.09158896116984128,0.20030878602812802,Weak,Negative
+solar_exposure,wetlands_reach_pct,-0.20003414282959356,0.09204381682450702,0.20003414282959356,Weak,Negative
+burned_upstream_pct,forest_upstream_pct,-0.19871942072592516,0.09424585929096052,0.19871942072592516,Weak,Negative
+road_density_buffer,shrub_upstream_pct,-0.19777118172878136,0.09585956487016167,0.19777118172878136,Weak,Negative
+agricultural_upstream_pct,channel_slope,-0.19738769264006703,0.09651829620713626,0.19738769264006703,Weak,Negative
+annual_precip_mm,shrub_upstream_pct,0.19503839814067953,0.10063140056201991,0.19503839814067953,Weak,Positive
+burned_upstream_pct,lakes_buffer_pct,-0.1934105810305917,0.10356060930283628,0.1934105810305917,Weak,Negative
+lakes_buffer_pct,summer_precip_mm,0.19315568085894877,0.10402523806233788,0.19315568085894877,Weak,Positive
+summer_precip_mm,wetlands_buffer_pct,-0.19285169153237378,0.10458146247151978,0.19285169153237378,Weak,Negative
+shrub_upstream_pct,summer_max_air_temp_c,-0.19272244783703824,0.1048186449424704,0.19272244783703824,Weak,Negative
+summer_precip_mm,upstream_area_km2,-0.19256591285461463,0.10510647042247223,0.19256591285461463,Weak,Negative
+forest_upstream_pct,lakes_reach_pct,-0.19178211876115664,0.10655689536484969,0.19178211876115664,Weak,Negative
+solar_exposure,wetlands_buffer_pct,-0.1906669945497089,0.10864714384393359,0.1906669945497089,Weak,Negative
+agricultural_reach_pct,burned_buffer_pct,-0.18992553911718385,0.11005443973207019,0.18992553911718385,Very Weak,Negative
+solar_exposure,wetlands_upstream_pct,0.18990671038773477,0.11009035958657343,0.18990671038773477,Very Weak,Positive
+base_flow_index,summer_max_air_temp_c,-0.18926764935917115,0.11131488787610966,0.18926764935917115,Very Weak,Negative
+high_cascades_upstream_pct,wetlands_reach_pct,-0.18880604537648882,0.11220590657151663,0.18880604537648882,Very Weak,Negative
+burned_buffer_pct,upstream_area_km2,0.1883815975329719,0.11303005079869077,0.1883815975329719,Very Weak,Positive
+high_cascades_upstream_pct,veg_height_buffer_m,0.18792120179654415,0.1139292625791466,0.18792120179654415,Very Weak,Positive
+channel_slope,high_cascades_reach_pct,0.1878079802072153,0.11415124079988082,0.1878079802072153,Very Weak,Positive
+burned_reach_pct,mean_air_temp_c,-0.18755404526171407,0.11465030783727692,0.18755404526171407,Very Weak,Negative
+agricultural_upstream_pct,solar_exposure,0.1859780421614981,0.11778532896821092,0.1859780421614981,Very Weak,Positive
+agricultural_buffer_pct,summer_precip_mm,-0.18415848892080242,0.12148620772543484,0.18415848892080242,Very Weak,Negative
+agricultural_buffer_pct,burned_upstream_pct,-0.18382809429880148,0.12216765497438109,0.18382809429880148,Very Weak,Negative
+shrub_upstream_pct,wet_season_precip_mm,0.18332998271671525,0.12320054273819459,0.18332998271671525,Very Weak,Positive
+forest_upstream_pct,high_cascades_reach_pct,0.18292926473489032,0.12403630611469407,0.18292926473489032,Very Weak,Positive
+agricultural_upstream_pct,upstream_area_km2,-0.18201677488593213,0.12595559721467464,0.18201677488593213,Very Weak,Negative
+developed_upstream_pct,upstream_area_km2,-0.18183109991353652,0.12634889433626162,0.18183109991353652,Very Weak,Negative
+lakes_upstream_pct,veg_cover_upstream_pct,-0.1817759973110704,0.12646579262724278,0.1817759973110704,Very Weak,Negative
+base_flow_index,shrub_upstream_pct,0.18016308283527335,0.12992415903439314,0.18016308283527335,Very Weak,Positive
+agricultural_upstream_pct,road_density_reach,0.1793064063857309,0.1317899860092151,0.1793064063857309,Very Weak,Positive
+road_density_buffer,summer_max_air_temp_c,0.17909002348625508,0.132264462469466,0.17909002348625508,Very Weak,Positive
+developed_buffer_pct,road_density_buffer,0.17907899096339674,0.13228868882049305,0.17907899096339674,Very Weak,Positive
+channel_slope,developed_upstream_pct,-0.17579874223944245,0.13964200602425225,0.17579874223944245,Very Weak,Negative
+mean_stream_temp_c,road_density_upstream,0.17453031168413743,0.14256650264462478,0.17453031168413743,Very Weak,Positive
+channel_slope,lakes_buffer_pct,-0.17337801226816546,0.14526290672169395,0.17337801226816546,Very Weak,Negative
+lakes_reach_pct,summer_mean_max_air_temp_c,0.17153915347409618,0.1496447547859594,0.17153915347409618,Very Weak,Positive
+burned_buffer_pct,developed_reach_pct,-0.17125009201144403,0.1503424431504401,0.17125009201144403,Very Weak,Negative
+lakes_reach_pct,veg_cover_buffer_pct,-0.17109194878449788,0.15072516833949123,0.17109194878449788,Very Weak,Negative
+burned_reach_pct,solar_exposure,-0.16890303292675463,0.1560974703014013,0.16890303292675463,Very Weak,Negative
+forest_upstream_pct,lakes_buffer_pct,-0.16856993048194677,0.1569273152774464,0.16856993048194677,Very Weak,Negative
+burned_reach_pct,summer_mean_air_temp_c,-0.1671318177889536,0.16054761180078492,0.1671318177889536,Very Weak,Negative
+lakes_upstream_pct,road_density_upstream,0.1667501355082952,0.16151874497155028,0.1667501355082952,Very Weak,Positive
+solar_exposure,upstream_area_km2,-0.16644556590488077,0.16229678428121863,0.16644556590488077,Very Weak,Negative
+channel_slope,solar_exposure,0.165609093490343,0.16444782744640896,0.165609093490343,Very Weak,Positive
+developed_buffer_pct,shrub_upstream_pct,-0.16351456176632584,0.16992609319742868,0.16351456176632584,Very Weak,Negative
+burned_reach_pct,veg_height_reach_m,0.1620142111480526,0.1739317453031508,0.1620142111480526,Very Weak,Positive
+burned_reach_pct,wetlands_upstream_pct,-0.1618434309932077,0.1743920338107685,0.1618434309932077,Very Weak,Negative
+burned_buffer_pct,lakes_upstream_pct,0.16180919995063073,0.1744844006430768,0.16180919995063073,Very Weak,Positive
+shrub_upstream_pct,summer_precip_mm,0.16105504403238763,0.17652844195189843,0.16105504403238763,Very Weak,Positive
+burned_reach_pct,wetlands_reach_pct,-0.1594914202737137,0.1808219652335663,0.1594914202737137,Very Weak,Negative
+high_cascades_buffer_pct,lakes_upstream_pct,0.1581789945879156,0.18448388192127352,0.1581789945879156,Very Weak,Positive
+road_density_upstream,wetlands_reach_pct,0.15561717159965843,0.1917859986582724,0.15561717159965843,Very Weak,Positive
+high_cascades_buffer_pct,mean_air_temp_c,-0.15414420453896885,0.19607748516650125,0.15414420453896885,Very Weak,Negative
+developed_upstream_pct,road_density_reach,0.153927796456527,0.19671374383537277,0.153927796456527,Very Weak,Positive
+lakes_upstream_pct,thermal_sensitivity,-0.15386186555194964,0.19690788011752036,0.15386186555194964,Very Weak,Negative
+lakes_upstream_pct,veg_height_buffer_m,-0.15267417112976656,0.20042862910343873,0.15267417112976656,Very Weak,Negative
+road_density_buffer,summer_precip_mm,-0.151444713830186,0.20412029740406923,0.151444713830186,Very Weak,Negative
+shrub_upstream_pct,veg_height_upstream_m,-0.15070674092896427,0.20635930556363302,0.15070674092896427,Very Weak,Negative
+burned_buffer_pct,solar_exposure,-0.14976197917559295,0.20925110446051054,0.14976197917559295,Very Weak,Negative
+agricultural_reach_pct,shrub_upstream_pct,-0.14900266693519873,0.21159599210709779,0.14900266693519873,Very Weak,Negative
+lakes_upstream_pct,wetlands_buffer_pct,0.14578151591487784,0.22174997311988687,0.14578151591487784,Very Weak,Positive
+channel_slope,road_density_buffer,-0.14477482549741336,0.224992257002103,0.14477482549741336,Very Weak,Negative
+lakes_buffer_pct,road_density_reach,0.14430322797369755,0.22652248859985358,0.14430322797369755,Very Weak,Positive
+forest_upstream_pct,mean_air_temp_c,-0.14331466927615089,0.22975368201975144,0.14331466927615089,Very Weak,Negative
+developed_reach_pct,solar_exposure,0.14280960714098903,0.2314168451156413,0.14280960714098903,Very Weak,Positive
+thermal_sensitivity,wetlands_buffer_pct,0.140769789496879,0.23821899130645074,0.140769789496879,Very Weak,Positive
+burned_buffer_pct,lakes_buffer_pct,-0.14066211440569584,0.23858185066092563,0.14066211440569584,Very Weak,Negative
+burned_buffer_pct,summer_precip_mm,0.13809427538638486,0.24734856574531117,0.13809427538638486,Very Weak,Positive
+base_flow_index,road_density_reach,-0.13707751321279874,0.25088006812215835,0.13707751321279874,Very Weak,Negative
+high_cascades_upstream_pct,wetlands_upstream_pct,-0.13560353804646857,0.25606047875179394,0.13560353804646857,Very Weak,Negative
+elevation_m,summer_precip_mm,-0.13530291584541476,0.25712590262023904,0.13530291584541476,Very Weak,Negative
+burned_upstream_pct,wetlands_upstream_pct,-0.13528012398800182,0.2572068009599471,0.13528012398800182,Very Weak,Negative
+forest_upstream_pct,high_cascades_buffer_pct,0.1328229324467417,0.26602994089155363,0.1328229324467417,Very Weak,Positive
+burned_buffer_pct,wetlands_upstream_pct,-0.13249108847063848,0.26723694265176934,0.13249108847063848,Very Weak,Negative
+lakes_reach_pct,road_density_buffer,-0.1322275682486457,0.26819805381644635,0.1322275682486457,Very Weak,Negative
+burned_buffer_pct,high_cascades_buffer_pct,0.13185671150458306,0.26955457397074545,0.13185671150458306,Very Weak,Positive
+channel_slope,high_cascades_buffer_pct,0.13176509930755823,0.2698903813230866,0.13176509930755823,Very Weak,Positive
+burned_reach_pct,road_density_reach,-0.13152634104120386,0.27076687599555727,0.13152634104120386,Very Weak,Negative
+high_cascades_upstream_pct,mean_air_temp_c,-0.1306223210087851,0.2741028648402435,0.1306223210087851,Very Weak,Negative
+channel_slope,summer_precip_mm,0.1305001741369232,0.2745557055324457,0.1305001741369232,Very Weak,Positive
+lakes_buffer_pct,lakes_upstream_pct,0.13005293928278233,0.2762180240397627,0.13005293928278233,Very Weak,Positive
+high_cascades_reach_pct,shrub_upstream_pct,0.1294391499984205,0.2785103155607924,0.1294391499984205,Very Weak,Positive
+solar_exposure,veg_height_reach_m,-0.12847976069860567,0.28211860552953394,0.12847976069860567,Very Weak,Negative
+burned_reach_pct,channel_slope,-0.12710209784915857,0.2873540544508846,0.12710209784915857,Very Weak,Negative
+high_cascades_reach_pct,summer_max_air_temp_c,0.1267439922668615,0.2887253778372063,0.1267439922668615,Very Weak,Positive
+high_cascades_reach_pct,summer_mean_max_air_temp_c,-0.12660804947930318,0.2892470829408458,0.12660804947930318,Very Weak,Negative
+high_cascades_buffer_pct,summer_max_air_temp_c,0.12635182599242206,0.29023207509169446,0.12635182599242206,Very Weak,Positive
+annual_precip_mm,upstream_area_km2,-0.12573468664803608,0.2926135814848805,0.12573468664803608,Very Weak,Negative
+high_cascades_upstream_pct,shrub_upstream_pct,0.12559296996192965,0.29316226561063874,0.12559296996192965,Very Weak,Positive
+developed_reach_pct,shrub_upstream_pct,-0.12494607864263216,0.2956754082119999,0.12494607864263216,Very Weak,Negative
+road_density_buffer,veg_cover_reach_pct,-0.12382766059670239,0.3000536057718941,0.12382766059670239,Very Weak,Negative
+high_cascades_buffer_pct,wetlands_reach_pct,-0.12363429032536462,0.3008148454330408,0.12363429032536462,Very Weak,Negative
+burned_buffer_pct,road_density_reach,-0.12359020043799926,0.30098858993032684,0.12359020043799926,Very Weak,Negative
+channel_slope,veg_cover_upstream_pct,0.1235002785835905,0.30134314659768013,0.1235002785835905,Very Weak,Positive
+burned_buffer_pct,summer_mean_max_air_temp_c,-0.12299944457633748,0.3033228825587806,0.12299944457633748,Very Weak,Negative
+mean_air_temp_c,solar_exposure,0.12245738101621502,0.30547510286648105,0.12245738101621502,Very Weak,Positive
+mean_stream_temp_c,shrub_upstream_pct,0.12227636129149001,0.30619602906259114,0.12227636129149001,Very Weak,Positive
+developed_buffer_pct,solar_exposure,0.12173428603535119,0.3083614826028862,0.12173428603535119,Very Weak,Positive
+mean_stream_temp_c,solar_exposure,0.11867145941242586,0.32078239939094066,0.11867145941242586,Very Weak,Positive
+burned_upstream_pct,road_density_buffer,-0.11822217791901041,0.32263093442866797,0.11822217791901041,Very Weak,Negative
+upstream_area_km2,wet_season_precip_mm,-0.11775867890057144,0.3245450754150494,0.11775867890057144,Very Weak,Negative
+burned_buffer_pct,developed_buffer_pct,-0.11754656171464486,0.3254234766295623,0.11754656171464486,Very Weak,Negative
+shrub_upstream_pct,veg_cover_reach_pct,-0.11746636756688769,0.3257559634008267,0.11746636756688769,Very Weak,Negative
+burned_buffer_pct,veg_cover_reach_pct,-0.11598812696216353,0.3319234631452357,0.11598812696216353,Very Weak,Negative
+burned_reach_pct,lakes_buffer_pct,-0.11346344002431581,0.34262642491827666,0.11346344002431581,Very Weak,Negative
+solar_exposure,summer_precip_mm,0.11326975351233284,0.3434563422860113,0.11326975351233284,Very Weak,Positive
+high_cascades_buffer_pct,shrub_upstream_pct,0.11237463250780266,0.3473080994247091,0.11237463250780266,Very Weak,Positive
+agricultural_buffer_pct,shrub_upstream_pct,-0.11135540669673538,0.3517264862818834,0.11135540669673538,Very Weak,Negative
+summer_precip_mm,wetlands_reach_pct,-0.11052082784113329,0.35537023575850535,0.11052082784113329,Very Weak,Negative
+channel_slope,veg_height_upstream_m,0.1100067594103085,0.3576261986865399,0.1100067594103085,Very Weak,Positive
+lakes_upstream_pct,road_density_buffer,-0.10976478620341759,0.35869113164490907,0.10976478620341759,Very Weak,Negative
+burned_buffer_pct,summer_max_air_temp_c,-0.10967688135127542,0.35907848669749387,0.10967688135127542,Very Weak,Negative
+road_density_reach,veg_cover_upstream_pct,-0.10931633199045264,0.3606699466662673,0.10931633199045264,Very Weak,Negative
+lakes_buffer_pct,road_density_buffer,-0.10879504867743962,0.3629785263662053,0.10879504867743962,Very Weak,Negative
+upstream_area_km2,veg_cover_reach_pct,-0.10868569026674613,0.3634639819954022,0.10868569026674613,Very Weak,Negative
+summer_precip_mm,veg_height_reach_m,-0.1084449734393952,0.36453395334705685,0.1084449734393952,Very Weak,Negative
+forest_upstream_pct,lakes_upstream_pct,-0.1081759485827919,0.36573202836104457,0.1081759485827919,Very Weak,Negative
+lakes_upstream_pct,veg_cover_reach_pct,-0.10789318402903317,0.36699388019313806,0.10789318402903317,Very Weak,Negative
+road_density_buffer,veg_height_reach_m,-0.10767622660582815,0.36796386192302366,0.10767622660582815,Very Weak,Negative
+burned_reach_pct,elevation_m,0.1071936925722765,0.3701267867605127,0.1071936925722765,Very Weak,Positive
+lakes_reach_pct,shrub_upstream_pct,-0.10643151208862567,0.3735589104487458,0.10643151208862567,Very Weak,Negative
+high_cascades_reach_pct,veg_cover_upstream_pct,0.10633632828727446,0.3739888756924763,0.10633632828727446,Very Weak,Positive
+forest_upstream_pct,summer_mean_air_temp_c,-0.10632292515779102,0.37404944449737765,0.10632292515779102,Very Weak,Negative
+high_cascades_reach_pct,wetlands_reach_pct,-0.10611176497125892,0.3750044617842403,0.10611176497125892,Very Weak,Negative
+road_density_upstream,solar_exposure,0.10487553935353233,0.38062508475153045,0.10487553935353233,Very Weak,Positive
+burned_buffer_pct,wetlands_buffer_pct,-0.10341464526798809,0.38733205042301644,0.10341464526798809,Very Weak,Negative
+solar_exposure,summer_mean_max_air_temp_c,0.10284822855478752,0.38995131975300024,0.10284822855478752,Very Weak,Positive
+lakes_buffer_pct,shrub_upstream_pct,-0.1024066652392304,0.39200052165203436,0.1024066652392304,Very Weak,Negative
+lakes_upstream_pct,road_density_reach,0.10211360000250996,0.39336409705371667,0.10211360000250996,Very Weak,Positive
+burned_buffer_pct,forest_upstream_pct,-0.10054829616734864,0.4006946234828037,0.10054829616734864,Very Weak,Negative
+high_cascades_upstream_pct,road_density_buffer,0.09998495382189464,0.40335235149278725,0.09998495382189464,Very Weak,Positive
+agricultural_buffer_pct,burned_buffer_pct,-0.09987234090393983,0.4038848711884495,0.09987234090393983,Very Weak,Negative
+summer_precip_mm,veg_cover_buffer_pct,0.09924572610032742,0.4068554948978824,0.09924572610032742,Very Weak,Positive
+road_density_buffer,upstream_area_km2,0.09873428406462263,0.4092895383957704,0.09873428406462263,Very Weak,Positive
+high_cascades_upstream_pct,veg_cover_buffer_pct,0.09768793438004222,0.4142956289728854,0.09768793438004222,Very Weak,Positive
+channel_slope,lakes_reach_pct,-0.09720526429239054,0.4166167762479862,0.09720526429239054,Very Weak,Negative
+mean_stream_temp_c,road_density_buffer,0.09634893080938853,0.42075327932539563,0.09634893080938853,Very Weak,Positive
+agricultural_reach_pct,solar_exposure,0.09466904136947916,0.4289361226234003,0.09466904136947916,Very Weak,Positive
+solar_exposure,veg_cover_buffer_pct,0.09383895402132485,0.4330127107224908,0.09383895402132485,Very Weak,Positive
+solar_exposure,veg_cover_reach_pct,-0.0924880590534086,0.4396936663348374,0.0924880590534086,Very Weak,Negative
+road_density_reach,solar_exposure,-0.0921693819933522,0.44127810345160823,0.0921693819933522,Very Weak,Negative
+high_cascades_upstream_pct,road_density_upstream,0.09054104694640376,0.4494238229355003,0.09054104694640376,Very Weak,Positive
+lakes_upstream_pct,veg_height_upstream_m,-0.09035648989146773,0.45035230051759356,0.09035648989146773,Very Weak,Negative
+burned_upstream_pct,veg_cover_upstream_pct,-0.08814207582773198,0.4615752086913192,0.08814207582773198,Very Weak,Negative
+developed_reach_pct,lakes_upstream_pct,0.08770441224455695,0.46381128317990106,0.08770441224455695,Very Weak,Positive
+solar_exposure,veg_height_upstream_m,-0.0870739773331011,0.4670425971832848,0.0870739773331011,Very Weak,Negative
+high_cascades_buffer_pct,veg_cover_upstream_pct,0.0868247122956836,0.46832357452616336,0.0868247122956836,Very Weak,Positive
+burned_reach_pct,veg_height_upstream_m,0.086299277082466,0.4710300186581775,0.086299277082466,Very Weak,Positive
+burned_buffer_pct,channel_slope,-0.08600747824039755,0.4725366725839355,0.08600747824039755,Very Weak,Negative
+burned_buffer_pct,summer_mean_air_temp_c,-0.0845392008929779,0.4801571263630082,0.0845392008929779,Very Weak,Negative
+agricultural_buffer_pct,road_density_buffer,0.08453028804489415,0.4802035838817962,0.08453028804489415,Very Weak,Positive
+high_cascades_buffer_pct,summer_mean_max_air_temp_c,-0.08421742285546147,0.4818358871296118,0.08421742285546147,Very Weak,Negative
+upstream_area_km2,wetlands_reach_pct,0.08386095950320209,0.4836992466229266,0.08386095950320209,Very Weak,Positive
+channel_slope,road_density_upstream,-0.08359937607463826,0.4850690650156033,0.08359937607463826,Very Weak,Negative
+burned_reach_pct,thermal_sensitivity,-0.08320302557454584,0.48714852070941683,0.08320302557454584,Very Weak,Negative
+summer_precip_mm,veg_cover_reach_pct,-0.08255198704796315,0.49057439586657536,0.08255198704796315,Very Weak,Negative
+solar_exposure,veg_height_buffer_m,0.08129492931924542,0.4972249337191652,0.08129492931924542,Very Weak,Positive
+road_density_upstream,upstream_area_km2,-0.07982892653263403,0.5050398492126786,0.07982892653263403,Very Weak,Negative
+lakes_reach_pct,solar_exposure,0.07941535623567926,0.5072558883770466,0.07941535623567926,Very Weak,Positive
+high_cascades_buffer_pct,road_density_reach,-0.07635575983112614,0.523804041154428,0.07635575983112614,Very Weak,Negative
+agricultural_reach_pct,lakes_upstream_pct,0.07496145399118184,0.531434098790613,0.07496145399118184,Very Weak,Positive
+burned_reach_pct,veg_cover_upstream_pct,0.07440842941052782,0.5344756088490867,0.07440842941052782,Very Weak,Positive
+high_cascades_upstream_pct,wetlands_buffer_pct,-0.07410937619197028,0.5361239066787913,0.07410937619197028,Very Weak,Negative
+summer_max_air_temp_c,thermal_sensitivity,-0.07225331320705052,0.5464096578772697,0.07225331320705052,Very Weak,Negative
+lakes_reach_pct,road_density_reach,0.07077823141592639,0.5546517557075452,0.07077823141592639,Very Weak,Positive
+burned_upstream_pct,summer_max_air_temp_c,-0.06758868771485994,0.5726741735494474,0.06758868771485994,Very Weak,Negative
+channel_slope,high_cascades_upstream_pct,-0.06667046707637782,0.577912502344414,0.06667046707637782,Very Weak,Negative
+high_cascades_reach_pct,road_density_buffer,-0.06655916076516047,0.5785489861713227,0.06655916076516047,Very Weak,Negative
+agricultural_buffer_pct,lakes_upstream_pct,0.06613807584291567,0.5809597911615136,0.06613807584291567,Very Weak,Positive
+lakes_upstream_pct,summer_precip_mm,-0.06493451989432365,0.587875654182477,0.06493451989432365,Very Weak,Negative
+burned_upstream_pct,wetlands_buffer_pct,-0.06488492775690329,0.5881614173472662,0.06488492775690329,Very Weak,Negative
+burned_upstream_pct,veg_height_upstream_m,0.06427719303286493,0.59166843711558,0.06427719303286493,Very Weak,Positive
+burned_buffer_pct,mean_air_temp_c,-0.0635563182506896,0.5958404874042986,0.0635563182506896,Very Weak,Negative
+burned_buffer_pct,elevation_m,0.06184403819057402,0.6058024748610629,0.06184403819057402,Very Weak,Positive
+upstream_area_km2,wetlands_upstream_pct,0.06169434553970914,0.6066768384352883,0.06169434553970914,Very Weak,Positive
+shrub_upstream_pct,wetlands_reach_pct,0.060652977056756596,0.6127747375208608,0.060652977056756596,Very Weak,Positive
+summer_precip_mm,wetlands_upstream_pct,-0.06048931989779961,0.6137354622072753,0.06048931989779961,Very Weak,Negative
+road_density_reach,shrub_upstream_pct,-0.05926581158970925,0.6209383647876954,0.05926581158970925,Very Weak,Negative
+high_cascades_reach_pct,road_density_upstream,-0.059171862458000796,0.6214929360222778,0.059171862458000796,Very Weak,Negative
+forest_upstream_pct,solar_exposure,0.05773514204800642,0.6299997961922295,0.05773514204800642,Very Weak,Positive
+burned_upstream_pct,veg_cover_reach_pct,0.05770675758390726,0.6301683507896574,0.05770675758390726,Very Weak,Positive
+developed_upstream_pct,road_density_buffer,-0.0575533232627494,0.6310798110921827,0.0575533232627494,Very Weak,Negative
+shrub_upstream_pct,wetlands_upstream_pct,-0.057022447724969054,0.6342376518459913,0.057022447724969054,Very Weak,Negative
+summer_max_air_temp_c,veg_height_upstream_m,-0.0558802962145959,0.641053653606789,0.0558802962145959,Very Weak,Negative
+burned_reach_pct,veg_height_buffer_m,0.055636300102201344,0.6425136173391044,0.055636300102201344,Very Weak,Positive
+lakes_reach_pct,summer_max_air_temp_c,-0.05356954509562876,0.654933930083226,0.05356954509562876,Very Weak,Negative
+agricultural_reach_pct,road_density_buffer,-0.05325138722111043,0.6568543570024445,0.05325138722111043,Very Weak,Negative
+road_density_buffer,wetlands_buffer_pct,0.052445248131451475,0.6617301926118606,0.052445248131451475,Very Weak,Positive
+road_density_buffer,solar_exposure,0.0511300884421687,0.6697149131908617,0.0511300884421687,Very Weak,Positive
+road_density_reach,veg_height_upstream_m,-0.05079880740774344,0.6717320333903922,0.05079880740774344,Very Weak,Negative
+burned_buffer_pct,lakes_reach_pct,-0.050765345993513684,0.6719359038546213,0.050765345993513684,Very Weak,Negative
+developed_buffer_pct,lakes_upstream_pct,0.05068032441039908,0.6724540213082917,0.05068032441039908,Very Weak,Positive
+burned_reach_pct,high_cascades_upstream_pct,0.049861940309301175,0.6774489681983635,0.049861940309301175,Very Weak,Positive
+developed_upstream_pct,summer_precip_mm,0.04979552818504803,0.6778549226298338,0.04979552818504803,Very Weak,Positive
+road_density_buffer,wetlands_upstream_pct,0.049583358283274155,0.6791524569162088,0.049583358283274155,Very Weak,Positive
+summer_precip_mm,veg_height_buffer_m,0.04942183054712464,0.680140911090904,0.04942183054712464,Very Weak,Positive
+agricultural_buffer_pct,upstream_area_km2,0.04892120329081649,0.6832078650491544,0.04892120329081649,Very Weak,Positive
+solar_exposure,veg_cover_upstream_pct,0.04512088280640474,0.7066533715280265,0.04512088280640474,Very Weak,Positive
+forest_upstream_pct,summer_mean_max_air_temp_c,-0.044758236380900374,0.7089053813619435,0.044758236380900374,Very Weak,Negative
+lakes_reach_pct,upstream_area_km2,-0.043615766169758284,0.7160162536097263,0.043615766169758284,Very Weak,Negative
+upstream_area_km2,veg_height_reach_m,0.04327166629794553,0.7181627363672265,0.04327166629794553,Very Weak,Positive
+base_flow_index,road_density_buffer,0.042951323576921205,0.7201629812634502,0.042951323576921205,Very Weak,Positive
+burned_buffer_pct,veg_cover_upstream_pct,-0.04236498247038399,0.7238289908438393,0.04236498247038399,Very Weak,Negative
+burned_buffer_pct,thermal_sensitivity,-0.042142630868638814,0.7252208385693943,0.042142630868638814,Very Weak,Negative
+developed_reach_pct,road_density_buffer,-0.04129859390781462,0.7305122863503375,0.04129859390781462,Very Weak,Negative
+agricultural_buffer_pct,solar_exposure,0.04119650106334066,0.7311531854692688,0.04119650106334066,Very Weak,Positive
+road_density_buffer,veg_cover_upstream_pct,0.04097005388381827,0.7325753874630165,0.04097005388381827,Very Weak,Positive
+shrub_upstream_pct,wetlands_buffer_pct,0.04085587621282806,0.7332928217750829,0.04085587621282806,Very Weak,Positive
+burned_reach_pct,high_cascades_reach_pct,-0.04070973949405593,0.7342114030325546,0.04070973949405593,Very Weak,Negative
+agricultural_reach_pct,summer_precip_mm,0.03967783284292071,0.7407082545537484,0.03967783284292071,Very Weak,Positive
+lakes_upstream_pct,summer_mean_max_air_temp_c,0.03943431027072793,0.7422441265416595,0.03943431027072793,Very Weak,Positive
+elevation_m,lakes_upstream_pct,-0.03925585092247743,0.7433702897358965,0.03925585092247743,Very Weak,Negative
+burned_buffer_pct,veg_height_reach_m,0.03821456378310832,0.7499519518094773,0.03821456378310832,Very Weak,Positive
+shrub_upstream_pct,veg_height_reach_m,0.037842054064195885,0.7523108336015114,0.037842054064195885,Very Weak,Positive
+burned_reach_pct,lakes_reach_pct,-0.037321873246828105,0.7556086144835661,0.037321873246828105,Very Weak,Negative
+upstream_area_km2,wetlands_buffer_pct,0.036981164984490826,0.7577709643685291,0.036981164984490826,Very Weak,Positive
+burned_reach_pct,forest_upstream_pct,-0.03685549287379415,0.7585690283632047,0.03685549287379415,Very Weak,Negative
+lakes_upstream_pct,summer_max_air_temp_c,0.035825942010661325,0.7651164620485595,0.035825942010661325,Very Weak,Positive
+road_density_reach,thermal_sensitivity,-0.03574874588454781,0.7656080600722568,0.03574874588454781,Very Weak,Negative
+lakes_buffer_pct,upstream_area_km2,0.03501140524549245,0.7703081991495289,0.03501140524549245,Very Weak,Positive
+lakes_upstream_pct,mean_stream_temp_c,0.034982940471349006,0.7704898131379729,0.034982940471349006,Very Weak,Positive
+base_flow_index,upstream_area_km2,0.0347666681882381,0.7718700981507503,0.0347666681882381,Very Weak,Positive
+burned_buffer_pct,high_cascades_reach_pct,0.033633521231194195,0.7791134859466071,0.033633521231194195,Very Weak,Positive
+agricultural_reach_pct,upstream_area_km2,-0.03311868755934932,0.7824106969743099,0.03311868755934932,Very Weak,Negative
+summer_precip_mm,veg_cover_upstream_pct,-0.0323542894917315,0.7873132703560866,0.0323542894917315,Very Weak,Negative
+elevation_m,road_density_buffer,-0.032302867981748445,0.787643367927269,0.032302867981748445,Very Weak,Negative
+forest_upstream_pct,road_density_buffer,0.031755070676226495,0.7911622285781099,0.031755070676226495,Very Weak,Positive
+elevation_m,shrub_upstream_pct,0.031199993576090105,0.7947321043488125,0.031199993576090105,Very Weak,Positive
+developed_buffer_pct,upstream_area_km2,-0.030794185942692624,0.7973446495350467,0.030794185942692624,Very Weak,Negative
+burned_buffer_pct,veg_height_upstream_m,-0.03055167005075769,0.7989070033522891,0.03055167005075769,Very Weak,Negative
+burned_upstream_pct,veg_height_buffer_m,0.03004676684690257,0.8021622496894083,0.03004676684690257,Very Weak,Positive
+base_flow_index,lakes_upstream_pct,0.029205465463325527,0.8075937892199647,0.029205465463325527,Very Weak,Positive
+burned_buffer_pct,veg_height_buffer_m,0.028844254966354684,0.8099286099153389,0.028844254966354684,Very Weak,Positive
+shrub_upstream_pct,veg_height_buffer_m,-0.028514220933199875,0.8120633581306409,0.028514220933199875,Very Weak,Negative
+high_cascades_buffer_pct,road_density_upstream,-0.027023766755109774,0.8217208288314393,0.027023766755109774,Very Weak,Negative
+forest_upstream_pct,summer_max_air_temp_c,0.026037939166610746,0.8281231971937564,0.026037939166610746,Very Weak,Positive
+high_cascades_buffer_pct,wetlands_buffer_pct,-0.02591903547079662,0.8288961709379072,0.02591903547079662,Very Weak,Negative
+channel_slope,forest_upstream_pct,-0.025365932449742005,0.832493924070991,0.025365932449742005,Very Weak,Negative
+road_density_upstream,thermal_sensitivity,-0.025284195983681253,0.8330258860340551,0.025284195983681253,Very Weak,Negative
+burned_upstream_pct,mean_stream_temp_c,-0.023765099312797924,0.8429259261146189,0.023765099312797924,Very Weak,Negative
+lakes_buffer_pct,solar_exposure,-0.023123527867256067,0.8471144834031918,0.023123527867256067,Very Weak,Negative
+high_cascades_reach_pct,road_density_reach,-0.023019645359873307,0.8477930906296276,0.023019645359873307,Very Weak,Negative
+annual_precip_mm,lakes_upstream_pct,-0.022955021297298737,0.8482152997907253,0.022955021297298737,Very Weak,Negative
+agricultural_upstream_pct,lakes_upstream_pct,0.022559659925722397,0.8507992425190576,0.022559659925722397,Very Weak,Positive
+high_cascades_upstream_pct,summer_mean_max_air_temp_c,-0.021658094012700108,0.8566973837828684,0.021658094012700108,Very Weak,Negative
+developed_buffer_pct,summer_precip_mm,-0.020539070902359943,0.8640290229987653,0.020539070902359943,Very Weak,Negative
+solar_exposure,summer_max_air_temp_c,-0.01973335049831498,0.8693150980147761,0.01973335049831498,Very Weak,Negative
+burned_upstream_pct,road_density_reach,0.019219571466597925,0.8726888398779811,0.019219571466597925,Very Weak,Positive
+shrub_upstream_pct,thermal_sensitivity,0.01767321448277069,0.8828564688028959,0.01767321448277069,Very Weak,Positive
+lakes_upstream_pct,summer_mean_air_temp_c,0.01762301284157531,0.8831868811869661,0.01762301284157531,Very Weak,Positive
+developed_reach_pct,summer_precip_mm,0.016657273257063725,0.8895468989240345,0.016657273257063725,Very Weak,Positive
+burned_buffer_pct,high_cascades_upstream_pct,-0.016222118755028842,0.8924149711212825,0.016222118755028842,Very Weak,Negative
+developed_upstream_pct,lakes_upstream_pct,0.015463007376319208,0.8974214956344766,0.015463007376319208,Very Weak,Positive
+agricultural_upstream_pct,summer_precip_mm,0.015104135710325114,0.8997897455886565,0.015104135710325114,Very Weak,Positive
+lakes_upstream_pct,veg_height_reach_m,-0.015029014735605846,0.9002855918006842,0.015029014735605846,Very Weak,Negative
+high_cascades_buffer_pct,upstream_area_km2,-0.014693412850038763,0.9025012400821035,0.014693412850038763,Very Weak,Negative
+road_density_buffer,wet_season_precip_mm,-0.014056390682269526,0.9067088997383053,0.014056390682269526,Very Weak,Negative
+agricultural_upstream_pct,road_density_buffer,0.012774773186204529,0.9151818902177835,0.012774773186204529,Very Weak,Positive
+burned_reach_pct,road_density_buffer,-0.012737389751746039,0.9154291846810809,0.012737389751746039,Very Weak,Negative
+burned_buffer_pct,mean_stream_temp_c,0.01201699021996469,0.92019622277115,0.01201699021996469,Very Weak,Positive
+road_density_buffer,veg_height_upstream_m,0.01141101422098479,0.9242082766676283,0.01141101422098479,Very Weak,Positive
+burned_buffer_pct,wetlands_reach_pct,-0.011367515330661875,0.9244963484737443,0.011367515330661875,Very Weak,Negative
+forest_upstream_pct,road_density_reach,-0.010518105135863761,0.9301234714622755,0.010518105135863761,Very Weak,Negative
+lakes_buffer_pct,summer_max_air_temp_c,0.01014358806925264,0.9326056528621924,0.01014358806925264,Very Weak,Positive
+burned_reach_pct,veg_cover_reach_pct,-0.009916277665657914,0.9341125090416611,0.009916277665657914,Very Weak,Negative
+burned_reach_pct,high_cascades_buffer_pct,0.00990430919498329,0.9341918552984105,0.00990430919498329,Very Weak,Positive
+developed_reach_pct,upstream_area_km2,0.009221460357084222,0.9387199102785453,0.009221460357084222,Very Weak,Positive
+road_density_buffer,thermal_sensitivity,-0.009203320674332972,0.9388402238315607,0.009203320674332972,Very Weak,Negative
+high_cascades_reach_pct,wetlands_buffer_pct,-0.007695546994367259,0.9488452269757652,0.007695546994367259,Very Weak,Negative
+lakes_upstream_pct,wet_season_precip_mm,-0.004735983341337424,0.9685052720839238,0.004735983341337424,Very Weak,Negative
+thermal_sensitivity,upstream_area_km2,-0.004405605090907665,0.9707013153903921,0.004405605090907665,Very Weak,Negative
+burned_upstream_pct,wetlands_reach_pct,-0.0037970742168285166,0.9747468122054861,0.0037970742168285166,Very Weak,Negative
+annual_precip_mm,road_density_buffer,-0.0034818582423970386,0.9768426158493797,0.0034818582423970386,Very Weak,Negative
+burned_buffer_pct,road_density_buffer,0.0033484281775923563,0.9777298117727338,0.0033484281775923563,Very Weak,Positive
+burned_reach_pct,mean_stream_temp_c,0.0029183330414360486,0.9805897549982834,0.0029183330414360486,Very Weak,Positive
+lakes_upstream_pct,mean_air_temp_c,-0.002804688685750529,0.9813454821558056,0.002804688685750529,Very Weak,Negative
+burned_upstream_pct,summer_precip_mm,0.0027694146682722236,0.9815800553107257,0.0027694146682722236,Very Weak,Positive
+high_cascades_reach_pct,upstream_area_km2,-0.002129445006178909,0.9858361215000473,0.002129445006178909,Very Weak,Negative
+high_cascades_buffer_pct,road_density_buffer,0.0011845078087405927,0.9921210362056121,0.0011845078087405927,Very Weak,Positive
+road_density_buffer,wetlands_reach_pct,-1.4719486560401253e-4,0.9990208919139487,1.4719486560401253e-4,Very Weak,Negative

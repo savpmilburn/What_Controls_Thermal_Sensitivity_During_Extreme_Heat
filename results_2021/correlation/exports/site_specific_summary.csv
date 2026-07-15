@@ -1,0 +1,79 @@
+Variable 1,Variable 2,Correlation Coefficient,p Value,Absolute Value of Correlation,Correlation Strength,Direction
+annual_precip_mm,wet_season_precip_mm,0.9954002283802692,0,0.9954002283802692,Very Strong,Positive
+mean_air_temp_c,summer_mean_max_air_temp_c,0.9277497079826442,0,0.9277497079826442,Very Strong,Positive
+summer_mean_air_temp_c,summer_mean_max_air_temp_c,0.9198739083583962,0,0.9198739083583962,Very Strong,Positive
+summer_max_air_temp_c,summer_mean_max_air_temp_c,0.9196809109477782,0,0.9196809109477782,Very Strong,Positive
+mean_air_temp_c,summer_mean_air_temp_c,0.9179972196605286,0,0.9179972196605286,Very Strong,Positive
+base_flow_index,elevation_m,0.8976897166241798,0,0.8976897166241798,Very Strong,Positive
+elevation_m,mean_stream_temp_c,-0.8750814120900021,0,0.8750814120900021,Very Strong,Negative
+elevation_m,wet_season_precip_mm,0.8467006549998278,0,0.8467006549998278,Very Strong,Positive
+annual_precip_mm,elevation_m,0.8361183040398512,0,0.8361183040398512,Very Strong,Positive
+summer_max_air_temp_c,summer_precip_mm,-0.8172636183797868,0,0.8172636183797868,Very Strong,Negative
+mean_air_temp_c,summer_max_air_temp_c,0.8170927612782433,0,0.8170927612782433,Very Strong,Positive
+base_flow_index,mean_stream_temp_c,-0.8147332302299183,0,0.8147332302299183,Very Strong,Negative
+annual_precip_mm,summer_mean_air_temp_c,-0.7941360953407208,0,0.7941360953407208,Very Strong,Negative
+summer_mean_air_temp_c,wet_season_precip_mm,-0.7838429001077569,4.440892098500626e-16,0.7838429001077569,Strong,Negative
+base_flow_index,wet_season_precip_mm,0.7827877092080403,4.440892098500626e-16,0.7827877092080403,Strong,Positive
+annual_precip_mm,base_flow_index,0.7753089994058637,1.3322676295501878e-15,0.7753089994058637,Strong,Positive
+base_flow_index,thermal_sensitivity,-0.7724074770534384,1.7763568394002505e-15,0.7724074770534384,Strong,Negative
+elevation_m,summer_mean_air_temp_c,-0.7668987925934391,3.9968028886505635e-15,0.7668987925934391,Strong,Negative
+mean_stream_temp_c,thermal_sensitivity,0.7668164685783848,3.9968028886505635e-15,0.7668164685783848,Strong,Positive
+summer_max_air_temp_c,summer_mean_air_temp_c,0.7509046753622722,3.064215547965432e-14,0.7509046753622722,Strong,Positive
+annual_precip_mm,summer_mean_max_air_temp_c,-0.7220837287099732,8.180123245438153e-13,0.7220837287099732,Strong,Negative
+summer_mean_max_air_temp_c,wet_season_precip_mm,-0.7063222735094971,4.1744385725905886e-12,0.7063222735094971,Strong,Negative
+annual_precip_mm,mean_air_temp_c,-0.6965384873162497,1.0890843782362936e-11,0.6965384873162497,Strong,Negative
+elevation_m,thermal_sensitivity,-0.6888688794659481,2.2497559371004172e-11,0.6888688794659481,Strong,Negative
+mean_stream_temp_c,summer_mean_air_temp_c,0.6875768936816379,2.5366597711240502e-11,0.6875768936816379,Strong,Positive
+mean_air_temp_c,wet_season_precip_mm,-0.6847743471125095,3.284128524683183e-11,0.6847743471125095,Strong,Negative
+mean_stream_temp_c,wet_season_precip_mm,-0.6416183651690291,1.2558891704372854e-9,0.6416183651690291,Strong,Negative
+base_flow_index,summer_mean_air_temp_c,-0.6372021583923353,1.76596204326529e-9,0.6372021583923353,Strong,Negative
+elevation_m,mean_air_temp_c,-0.6317268835642327,2.674608090558195e-9,0.6317268835642327,Strong,Negative
+annual_precip_mm,mean_stream_temp_c,-0.6290432884381475,3.2683931117105658e-9,0.6290432884381475,Strong,Negative
+summer_mean_max_air_temp_c,summer_precip_mm,-0.6231082232980041,5.057966934174374e-9,0.6231082232980041,Strong,Negative
+mean_air_temp_c,mean_stream_temp_c,0.5974015254944701,3.029102702001296e-8,0.5974015254944701,Strong,Positive
+elevation_m,summer_mean_max_air_temp_c,-0.566959906370903,2.0790434573925154e-7,0.566959906370903,Moderate,Negative
+channel_slope,mean_stream_temp_c,-0.540416247032922,9.585692026803372e-7,0.540416247032922,Moderate,Negative
+base_flow_index,mean_air_temp_c,-0.5351439369584777,1.27878306299678e-6,0.5351439369584777,Moderate,Negative
+annual_precip_mm,summer_max_air_temp_c,-0.52931148173762,1.7491301060879039e-6,0.52931148173762,Moderate,Negative
+summer_max_air_temp_c,wet_season_precip_mm,-0.5111697251395211,4.467879257674667e-6,0.5111697251395211,Moderate,Negative
+channel_slope,summer_mean_air_temp_c,-0.5090198459956778,4.975426009412587e-6,0.5090198459956778,Moderate,Negative
+thermal_sensitivity,wet_season_precip_mm,-0.4988903929718069,8.180568918270126e-6,0.4988903929718069,Moderate,Negative
+mean_stream_temp_c,summer_mean_max_air_temp_c,0.4895596368222036,1.2755929132524102e-5,0.4895596368222036,Moderate,Positive
+annual_precip_mm,thermal_sensitivity,-0.4891129581999647,1.3025879301631349e-5,0.4891129581999647,Moderate,Negative
+channel_slope,elevation_m,0.48394335623969986,1.656329193844286e-5,0.48394335623969986,Moderate,Positive
+base_flow_index,summer_mean_max_air_temp_c,-0.4704832211678988,3.0411740501445905e-5,0.4704832211678988,Moderate,Negative
+mean_air_temp_c,summer_precip_mm,-0.45422294826328774,6.129499952622908e-5,0.45422294826328774,Moderate,Negative
+channel_slope,mean_air_temp_c,-0.43674910098535485,1.2526525667433397e-4,0.43674910098535485,Moderate,Negative
+summer_precip_mm,thermal_sensitivity,0.4344204324449728,1.3738524200657132e-4,0.4344204324449728,Moderate,Positive
+channel_slope,summer_mean_max_air_temp_c,-0.4134730649808469,3.061910034887205e-4,0.4134730649808469,Moderate,Negative
+summer_mean_air_temp_c,thermal_sensitivity,0.3893606096971082,7.236219488115925e-4,0.3893606096971082,Weak,Positive
+summer_mean_air_temp_c,summer_precip_mm,-0.3720829245540956,0.0012892260335721772,0.3720829245540956,Weak,Negative
+annual_precip_mm,channel_slope,0.37030007504081214,0.0013659723649648292,0.37030007504081214,Weak,Positive
+channel_slope,wet_season_precip_mm,0.35563026623853505,0.0021716015862898175,0.35563026623853505,Weak,Positive
+mean_air_temp_c,thermal_sensitivity,0.32741178814206023,0.00499454453155157,0.32741178814206023,Weak,Positive
+channel_slope,summer_max_air_temp_c,-0.3113634747649972,0.007760923536966002,0.3113634747649972,Weak,Negative
+elevation_m,summer_max_air_temp_c,-0.2958072662718072,0.011642054477671637,0.2958072662718072,Weak,Negative
+base_flow_index,channel_slope,0.293816757033161,0.012243679322325285,0.293816757033161,Weak,Positive
+channel_slope,thermal_sensitivity,-0.28205644578558814,0.01637724288961051,0.28205644578558814,Weak,Negative
+base_flow_index,solar_exposure,-0.2794695918049765,0.017432451573204943,0.2794695918049765,Weak,Negative
+base_flow_index,summer_precip_mm,-0.256704703553852,0.02950241845793089,0.256704703553852,Weak,Negative
+annual_precip_mm,summer_precip_mm,0.2393007060488605,0.04291729198062666,0.2393007060488605,Weak,Positive
+mean_stream_temp_c,summer_precip_mm,0.23358767850740145,0.04829315783425914,0.23358767850740145,Weak,Positive
+elevation_m,solar_exposure,-0.22182017014843763,0.06111425403769721,0.22182017014843763,Weak,Negative
+mean_stream_temp_c,summer_max_air_temp_c,0.21972614891402542,0.06366163817839343,0.21972614891402542,Weak,Positive
+summer_precip_mm,wet_season_precip_mm,0.2106727568071795,0.07567918459500689,0.2106727568071795,Weak,Positive
+solar_exposure,summer_mean_air_temp_c,0.20815709494677326,0.07932186143605247,0.20815709494677326,Weak,Positive
+solar_exposure,wet_season_precip_mm,-0.2064201741205157,0.08191733387658418,0.2064201741205157,Weak,Negative
+summer_mean_max_air_temp_c,thermal_sensitivity,0.20534221151587537,0.08356172363544734,0.20534221151587537,Weak,Positive
+solar_exposure,thermal_sensitivity,0.20305213457716342,0.08714190897937946,0.20305213457716342,Weak,Positive
+annual_precip_mm,solar_exposure,-0.20030878602812802,0.09158896116984128,0.20030878602812802,Weak,Negative
+base_flow_index,summer_max_air_temp_c,-0.18926764935917115,0.11131488787610966,0.18926764935917115,Very Weak,Negative
+channel_slope,solar_exposure,0.165609093490343,0.16444782744640896,0.165609093490343,Very Weak,Positive
+elevation_m,summer_precip_mm,-0.13530291584541476,0.25712590262023904,0.13530291584541476,Very Weak,Negative
+channel_slope,summer_precip_mm,0.1305001741369232,0.2745557055324457,0.1305001741369232,Very Weak,Positive
+mean_air_temp_c,solar_exposure,0.12245738101621502,0.30547510286648105,0.12245738101621502,Very Weak,Positive
+mean_stream_temp_c,solar_exposure,0.11867145941242586,0.32078239939094066,0.11867145941242586,Very Weak,Positive
+solar_exposure,summer_precip_mm,0.11326975351233284,0.3434563422860113,0.11326975351233284,Very Weak,Positive
+solar_exposure,summer_mean_max_air_temp_c,0.10284822855478752,0.38995131975300024,0.10284822855478752,Very Weak,Positive
+summer_max_air_temp_c,thermal_sensitivity,-0.07225331320705052,0.5464096578772697,0.07225331320705052,Very Weak,Negative
+solar_exposure,summer_max_air_temp_c,-0.01973335049831498,0.8693150980147761,0.01973335049831498,Very Weak,Negative
