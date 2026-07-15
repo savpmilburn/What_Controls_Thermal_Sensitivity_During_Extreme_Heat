@@ -4,10 +4,8 @@ while (!is.null(dev.list())) dev.off()
 
 library(tidyverse)
 library(Hmisc)
-library(car)
 library(PerformanceAnalytics)
 library(gridExtra)
-library(psych)
 library(reshape2)
 # Load 2021 Clackamas thermal sensitivity metrics and covariates data
 data_2021 <- read.csv("clackamas_thermal_sensitivity_covariates_2021.csv", stringsAsFactors = FALSE)
@@ -94,4 +92,4 @@ summary_tables <- list(
 )
 
 ts_correlations <- summary_tables$all[summary_tables$all$`Variable 1` == "thermal_sensitivity" | summary_tables$all$`Variable 2` == "thermal_sensitivity",]
-write_csv(ts_correlations, "results/2021/correlation/exports/ts_correlations.csv")
+write_csv(ts_correlations, "results_2021/correlation/exports/ts_correlations.csv")
