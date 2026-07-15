@@ -12,8 +12,8 @@ print(colnames(old_data))
 name_map <- c(
     index = "index",
     site = "site", 
-    longitude = "x", 
     latitude = "y", 
+    longitude = "x", 
     stream_name = "Stream_Nam", 
     gridcode = "GRIDCODE",
     thermal_sensitivity = "thermalSensitivity", 
