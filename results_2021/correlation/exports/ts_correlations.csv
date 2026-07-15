@@ -1,43 +1,43 @@
 Variable 1,Variable 2,Correlation Coefficient,p Value,Absolute Value of Correlation,Correlation Strength,Direction
-high_cascades_upstream_pct,thermal_sensitivity,-0.7781816949824829,8.881784197001252e-16,0.7781816949824829,Strong,Negative
-base_flow_index,thermal_sensitivity,-0.7724074770534384,1.7763568394002505e-15,0.7724074770534384,Strong,Negative
-mean_stream_temp_c,thermal_sensitivity,0.7668164685783848,3.9968028886505635e-15,0.7668164685783848,Strong,Positive
-elevation_m,thermal_sensitivity,-0.6888688794659481,2.2497559371004172e-11,0.6888688794659481,Strong,Negative
-developed_upstream_pct,thermal_sensitivity,0.6787821641145126,5.650635515053182e-11,0.6787821641145126,Strong,Positive
-thermal_sensitivity,veg_height_upstream_m,-0.6586379610906958,3.20242055096287e-10,0.6586379610906958,Strong,Negative
-agricultural_upstream_pct,thermal_sensitivity,0.649228091817847,6.88983980978719e-10,0.649228091817847,Strong,Positive
-agricultural_reach_pct,thermal_sensitivity,0.61451324597154,9.368162467993102e-9,0.61451324597154,Strong,Positive
-thermal_sensitivity,veg_height_reach_m,-0.5955520554419298,3.424720063094355e-8,0.5955520554419298,Strong,Negative
-high_cascades_reach_pct,thermal_sensitivity,-0.5931309100756962,4.01706659047818e-8,0.5931309100756962,Strong,Negative
-thermal_sensitivity,veg_cover_reach_pct,-0.5782973678359032,1.0380762249795339e-7,0.5782973678359032,Moderate,Negative
-developed_reach_pct,thermal_sensitivity,0.57011428269670406,1.7182120370939913e-7,0.57011428269670406,Moderate,Positive
-thermal_sensitivity,wet_season_precip_mm,-0.4988903929718069,8.180568918270126e-6,0.4988903929718069,Moderate,Negative
-annual_precip_mm,thermal_sensitivity,-0.4891129581999647,1.3025879301631349e-5,0.4891129581999647,Moderate,Negative
-thermal_sensitivity,veg_cover_upstream_pct,-0.4855812910416477,1.5355721103338382e-5,0.4855812910416477,Moderate,Negative
-high_cascades_buffer_pct,thermal_sensitivity,-0.4794946192899239,2.0304692552208792e-5,0.4794946192899239,Moderate,Negative
-agricultural_buffer_pct,thermal_sensitivity,0.4787381489022917,2.1014287639342655e-5,0.4787381489022917,Moderate,Positive
-developed_buffer_pct,thermal_sensitivity,0.45060408132117535,7.130183124592904e-5,0.45060408132117535,Moderate,Positive
-summer_precip_mm,thermal_sensitivity,0.4344204324449728,1.3738524200657132e-4,0.4344204324449728,Moderate,Positive
-forest_upstream_pct,thermal_sensitivity,-0.4073377250174763,3.8345531868966276e-4,0.4073377250174763,Moderate,Negative
-summer_mean_air_temp_c,thermal_sensitivity,0.3893606096971082,7.236219488115925e-4,0.3893606096971082,Weak,Positive
-thermal_sensitivity,veg_height_buffer_m,-0.37778599806931973,0.0010691565348903698,0.37778599806931973,Weak,Negative
-lakes_buffer_pct,thermal_sensitivity,0.37400756401057805,0.001210764942986664,0.37400756401057805,Weak,Positive
-lakes_reach_pct,thermal_sensitivity,0.3473413764039266,0.0027954624735708755,0.3473413764039266,Weak,Positive
-mean_air_temp_c,thermal_sensitivity,0.32741178814206023,0.00499454453155157,0.32741178814206023,Weak,Positive
-thermal_sensitivity,veg_cover_buffer_pct,-0.28992056183508985,0.013499645409836614,0.28992056183508985,Weak,Negative
-channel_slope,thermal_sensitivity,-0.28205644578558814,0.01637724288961051,0.28205644578558814,Weak,Negative
-burned_upstream_pct,thermal_sensitivity,-0.24352306143016214,0.03927050455648251,0.24352306143016214,Weak,Negative
-thermal_sensitivity,wetlands_upstream_pct,0.23553679911380548,0.04640007976003213,0.23553679911380548,Weak,Positive
-thermal_sensitivity,wetlands_reach_pct,0.21157795842117938,0.07440160850947475,0.21157795842117938,Weak,Positive
-summer_mean_max_air_temp_c,thermal_sensitivity,0.20534221151587537,0.08356172363544734,0.20534221151587537,Weak,Positive
-solar_exposure,thermal_sensitivity,0.20305213457716342,0.08714190897937946,0.20305213457716342,Weak,Positive
-lakes_upstream_pct,thermal_sensitivity,-0.15386186555194964,0.19690788011752036,0.15386186555194964,Very Weak,Negative
-thermal_sensitivity,wetlands_buffer_pct,0.140769789496879,0.23821899130645074,0.140769789496879,Very Weak,Positive
-burned_reach_pct,thermal_sensitivity,-0.08320302557454584,0.48714852070941683,0.08320302557454584,Very Weak,Negative
-summer_max_air_temp_c,thermal_sensitivity,-0.07225331320705052,0.5464096578772697,0.07225331320705052,Very Weak,Negative
-burned_buffer_pct,thermal_sensitivity,-0.042142630868638814,0.7252208385693943,0.042142630868638814,Very Weak,Negative
-road_density_reach,thermal_sensitivity,-0.03574874588454781,0.7656080600722568,0.03574874588454781,Very Weak,Negative
-road_density_upstream,thermal_sensitivity,-0.025284195983681253,0.8330258860340551,0.025284195983681253,Very Weak,Negative
-shrub_upstream_pct,thermal_sensitivity,0.01767321448277069,0.8828564688028959,0.01767321448277069,Very Weak,Positive
-road_density_buffer,thermal_sensitivity,-0.009203320674332972,0.9388402238315607,0.009203320674332972,Very Weak,Negative
-thermal_sensitivity,upstream_area_km2,-0.004405605090907665,0.9707013153903921,0.004405605090907665,Very Weak,Negative
+high_cascades_upstream_pct,thermal_sensitivity,-0.778,<0.001,0.778,Strong,Negative
+base_flow_index,thermal_sensitivity,-0.772,<0.001,0.772,Strong,Negative
+mean_stream_temp_c,thermal_sensitivity,0.767,<0.001,0.767,Strong,Positive
+elevation_m,thermal_sensitivity,-0.689,<0.001,0.689,Strong,Negative
+developed_upstream_pct,thermal_sensitivity,0.679,<0.001,0.679,Strong,Positive
+thermal_sensitivity,veg_height_upstream_m,-0.659,<0.001,0.659,Strong,Negative
+agricultural_upstream_pct,thermal_sensitivity,0.649,<0.001,0.649,Strong,Positive
+agricultural_reach_pct,thermal_sensitivity,0.615,<0.001,0.615,Strong,Positive
+thermal_sensitivity,veg_height_reach_m,-0.596,<0.001,0.596,Strong,Negative
+high_cascades_reach_pct,thermal_sensitivity,-0.593,<0.001,0.593,Strong,Negative
+thermal_sensitivity,veg_cover_reach_pct,-0.578,<0.001,0.578,Moderate,Negative
+developed_reach_pct,thermal_sensitivity,0.57,<0.001,0.57,Moderate,Positive
+thermal_sensitivity,wet_season_precip_mm,-0.499,<0.001,0.499,Moderate,Negative
+annual_precip_mm,thermal_sensitivity,-0.489,<0.001,0.489,Moderate,Negative
+thermal_sensitivity,veg_cover_upstream_pct,-0.486,<0.001,0.486,Moderate,Negative
+high_cascades_buffer_pct,thermal_sensitivity,-0.479,<0.001,0.479,Moderate,Negative
+agricultural_buffer_pct,thermal_sensitivity,0.479,<0.001,0.479,Moderate,Positive
+developed_buffer_pct,thermal_sensitivity,0.451,<0.001,0.451,Moderate,Positive
+summer_precip_mm,thermal_sensitivity,0.434,<0.001,0.434,Moderate,Positive
+forest_upstream_pct,thermal_sensitivity,-0.407,<0.001,0.407,Moderate,Negative
+summer_mean_air_temp_c,thermal_sensitivity,0.389,<0.001,0.389,Weak,Positive
+thermal_sensitivity,veg_height_buffer_m,-0.378,0.001,0.378,Weak,Negative
+lakes_buffer_pct,thermal_sensitivity,0.374,0.001,0.374,Weak,Positive
+lakes_reach_pct,thermal_sensitivity,0.347,0.003,0.347,Weak,Positive
+mean_air_temp_c,thermal_sensitivity,0.327,0.005,0.327,Weak,Positive
+thermal_sensitivity,veg_cover_buffer_pct,-0.29,0.013,0.29,Weak,Negative
+channel_slope,thermal_sensitivity,-0.282,0.016,0.282,Weak,Negative
+burned_upstream_pct,thermal_sensitivity,-0.244,0.039,0.244,Weak,Negative
+thermal_sensitivity,wetlands_upstream_pct,0.236,0.046,0.236,Weak,Positive
+thermal_sensitivity,wetlands_reach_pct,0.212,0.074,0.212,Weak,Positive
+summer_mean_max_air_temp_c,thermal_sensitivity,0.205,0.084,0.205,Weak,Positive
+solar_exposure,thermal_sensitivity,0.203,0.087,0.203,Weak,Positive
+lakes_upstream_pct,thermal_sensitivity,-0.154,0.197,0.154,Very Weak,Negative
+thermal_sensitivity,wetlands_buffer_pct,0.141,0.238,0.141,Very Weak,Positive
+burned_reach_pct,thermal_sensitivity,-0.083,0.487,0.083,Very Weak,Negative
+summer_max_air_temp_c,thermal_sensitivity,-0.072,0.546,0.072,Very Weak,Negative
+burned_buffer_pct,thermal_sensitivity,-0.042,0.725,0.042,Very Weak,Negative
+road_density_reach,thermal_sensitivity,-0.036,0.766,0.036,Very Weak,Negative
+road_density_upstream,thermal_sensitivity,-0.025,0.833,0.025,Very Weak,Negative
+shrub_upstream_pct,thermal_sensitivity,0.018,0.883,0.018,Very Weak,Positive
+road_density_buffer,thermal_sensitivity,-0.009,0.939,0.009,Very Weak,Negative
+thermal_sensitivity,upstream_area_km2,-0.004,0.971,0.004,Very Weak,Negative
