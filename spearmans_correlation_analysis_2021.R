@@ -109,4 +109,10 @@ summary_tables <- list(
 )
 
 ts_correlations <- summary_tables$all[summary_tables$all$`Variable 1` == "thermal_sensitivity" | summary_tables$all$`Variable 2` == "thermal_sensitivity",]
-write_csv(ts_correlations, "results_2021/correlation/exports/ts_correlations.csv")
+
+ts_correlations_export <- ts_correlations
+ts_correlations_export$`Correlation Coefficient` <- round(ts_correlations_export$`Correlation Coefficient`, 3)
+ts_correlations_export$`Absolute Value of Correlation` <- round(ts_correlations_export$`Absolute Value of Correlation`, 3)
+ts_correlations_export$`p Value` <- ifelse(ts_correlations_export$`p Value` < 0.001, "<0.001", as.character(round(ts_correlations_export$`p Value`, 3)))
+
+write_csv(ts_correlations_export, "results_2021/correlation/exports/ts_correlations.csv")
