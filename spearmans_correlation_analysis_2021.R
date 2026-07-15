@@ -39,12 +39,24 @@ compute_and_save_corr_matrix <- function(data, response_vars, covariate_vars, ma
   coeffs_df <- as.data.frame(corr_matrix$r)
   coeffs_df$Variable <- rownames(coeffs_df)
   coeffs_df <- coeffs_df[, c("Variable", setdiff(names(coeffs_df), "Variable"))]
-  write_csv(coeffs_df, file.path(output_dir, "exports", paste0(matrix_name, "_coeffs.csv")))
+  
+  # Round only export copy
+  coeffs_export <- coeffs_df
+  numeric_cols <- setdiff(names(coeffs_export), "Variable")
+  coeffs_export[numeric_cols] <- round(coeffs_export[numeric_cols], 3)
+  write_csv(coeffs_export, file.path(output_dir, "exports", paste0(matrix_name, "_coeffs.csv")))
   
   # P-values: same pattern
   pvals_df <- as.data.frame(corr_matrix$P)
   pvals_df$Variable <- rownames(pvals_df)
   pvals_df <- pvals_df[, c("Variable", setdiff(names(pvals_df), "Variable"))]
+  
+  # Round only export copy
+  pvals_export <- pvals_df
+  numeric_cols_p <- setdiff(names(pvals_export), "Variable")
+  pvals_export[numeric_cols_p] <- lapply(pvals_export[numeric_cols_p], function(col) {
+    ifelse(col < 0.001, "<0.001", as.character(round(col, 3)))
+  })
   write_csv(pvals_df, file.path(output_dir, "exports", paste0(matrix_name, "_pvalues.csv")))
   
   return(corr_matrix)
@@ -78,8 +90,13 @@ analyze_corr_matrix <- function(corr_matrix, output_file) {
     table$Direction <- ifelse(table$`Correlation Coefficient` > 0, "Positive", "Negative")
     # Sort by highest significance & highest strength
     table <- table[order(table$`p Value`, -table$`Absolute Value of Correlation`), ]
+    # Round only export copy
+    table_export <- table
+    table_export$`Correlation Coefficient` <- round(table_export$`Correlation Coefficient`, 3)
+    table_export$`Absolute Value of Correlation` <- round(table_export$`Absolute Value of Correlation`, 3)
+    table_export$`p Value` <- ifelse(table_export$`p Value` < 0.001, "<0.001", as.character(round(table_export$`p Value`, 3)))
     # Save table
-    write_csv(table, output_file)
+    write_csv(table_export, output_file)
     return(table)
 }
 
