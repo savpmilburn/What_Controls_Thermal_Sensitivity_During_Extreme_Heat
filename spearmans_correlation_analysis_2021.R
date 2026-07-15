@@ -53,4 +53,8 @@ compute_and_save_corr_matrix <- function(data, response_vars, covariate_vars, ma
 }
 
 
-test_result <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = covariates_site_specific_2021, matrix_name = "site_specific")
+site_specific_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = covariates_site_specific_2021, matrix_name = "site_specific")
+upstream_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = covariates_upstream_2021, matrix_name = "upstream")
+reach_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = covariates_reach_2021, matrix_name = "reach")
+buffer_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = covariates_buffer_2021, matrix_name = "buffer")
+all_corr_matrix <- compute_and_save_corr_matrix(data = data_2021, response_vars = ts_rvs_2021, covariate_vars = all_covariates_2021, matrix_name = "all")
