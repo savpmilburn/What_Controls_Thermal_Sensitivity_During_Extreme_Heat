@@ -181,3 +181,13 @@ summary(beta_model_final_selected)$adj.r.squared
 # 24 covariates removed due to VIF > 15 with 15 covariates surviving VIF filtering
 # 4 covariates removed due to |r| >= 0.6 with 11 covariates surviving correlation filtering
 # regsubsets selected 6 covariates for the final model
+# Drop covariates that were not statistically significant (p >= 0.05) in the
+# regsubsets-selected model — this is the actual published model
+model_final_selected_coeffs <- summary(model_final_selected)$coefficients[-1, , drop = FALSE]
+covariates_significant_only <- rownames(model_final_selected_coeffs)[model_final_selected_coeffs[, "Pr(>|t|)"] < 0.05]
+
+model_published <- lm(as.formula(paste("thermal_sensitivity ~", paste(covariates_significant_only, collapse = " + "))), data = data_2021)
+beta_model_published <- lm.beta(model_published)
+
+model_published_summary <- create_model_summary(model_published, beta_model_published, corr_matrix, "model_published")
+write_csv(model_published_summary, "results_2021/mlr/exports/model_published_summary.csv")
